@@ -1,0 +1,348 @@
+/*=====================GOOGLE FONT=====================*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+
+/*=====================CSS VARIABLES=====================*/
+:root {
+    
+  --header-height: 3rem;
+
+/*=====================COLORS=====================*/
+  --first-color: #032975;
+  --first-color-alt: hsl(219, 69%, 52%);
+  --title-color: hsl(219, 8%, 95%);
+  --text-color: hsl(219, 8%, 75%);
+  --text-color-light: hsl(219, 4%, 55%);
+  --white-color: #fff;
+  --body-color: var(--white-color);
+  --container-color: hsl(219, 4%, 7%);
+
+
+/*=====================FONTS AND TYPOGRAPHY=====================*/
+  --h1-font-size: 1.5rem;
+  --h2-font-size: 1.25rem;
+  --h3-font-size: 1rem;
+  --normal-font-size: .938rem;
+  --small-font-size: .813rem;
+  --smaller-font-size: .75rem;
+
+/*=====================FONT WEIGHT=====================*/  
+  --font-medium: 500;
+  --font-semi-bold: 600;
+
+}
+
+/*=====================SCROLL BAR=====================*/
+::-webkit-scrollbar {width: 8px;}
+  
+::-webkit-scrollbar-track {background: var(--white-color);}
+
+::-webkit-scrollbar-thumb {background: #032975; border-radius: 5px;}
+
+/*=====================BODY=====================*/
+body{font-family: 'Poppins', sans-serif !important; margin: auto; background-color: #fcfcfc !important; user-select: none; overflow-x: hidden;}
+
+ul {list-style: none;}
+a {text-decoration: none;}
+
+/*=====================CHANNELS=====================*/
+.social a{
+    color: var(--first-color);
+    background: white;
+    border-radius: 3px;
+    margin-bottom: 2px;
+    font-size: 17px;
+    position: relative;
+    display: block;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    box-shadow: 1px 1px 5px #ccccccaf;
+    /*transition: margin-left .3s;*/
+}
+
+/*
+.social a:hover{
+    margin-left: 50px;
+}
+*/
+
+.social{position: fixed; right: 0; top: 0; margin-top: 155px; z-index: 115;}
+
+.social i{margin-top: 25%;}
+
+/*=====================HEADER AND NAVBAR=====================*/
+.header{width: 100%; top: 0; left: 0; position: fixed; color: var(--white-color); background-color: #032975; padding: 10px; box-shadow: 0px 0px 10px #1f71e8; z-index: 200}
+
+.navbar{font-size: 14px; display: flex; justify-content: space-between; align-items: center;}
+
+.search{border: 1px solid #fff; border-radius: 30px; padding: 6px 10px 6px 10px;}
+
+.search img{color: #fff; padding: 0 5px 0 5px; width: 22px;}
+
+.search-field{font-size: 13px; border: none; background-color: var(--first-color); color: #fff; width: auto;}
+
+.search-field:focus {outline: none !important; border-color: none; box-shadow: 0 0 0;}
+
+.search-field::placeholder{color: #ababab;}
+
+.solutions-button{cursor: pointer;}
+
+.logo{padding-right: 20px;}
+
+.logo img{width: 100px;}
+
+.fa-angle-down{padding: 5px}
+  
+.dropdown {position: relative; display: inline-block; padding-left: 20px; border-left: 2px solid #fff;}
+
+.dropdown-content {display: none; position: absolute; background-color: #fcfcfc; min-width: 210px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1; border-radius: 10px;}
+
+.dropdown-content a {color: #2d2d2d; padding: 12px 16px; text-decoration: none; display: block; border-radius: 10px;}
+
+.dropdown-content a:hover {background-color: #ddd; color: #161616}
+
+.dropdown-content a:active {background-color: var(--first-color); border-radius: 10px; color: #fff}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.solutions-options-col{display: none}
+
+.nav-toggle{display: inline-flex;}
+
+.nav-toggle, .nav-close{display: none; cursor: pointer;}
+
+
+
+
+@media screen and (max-width: 767px){
+
+    .nav-menu{left: -100%; position: fixed; background-color: #032975; top: 0; width: 60%; height: 100%; transition: .3s; border: 1px solid #032975; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);}
+
+    .solutions-options-col{display: inline;}
+
+    .solutions-list-content{display: flex; flex-direction: column; text-align: center; row-gap: 1rem; padding-top: 3rem; margin-right: 7%; font-size: 18px;}
+
+    .solutions-list-title{padding-top: 1rem; color: #fcfcfc; font-size: 15px;}
+
+    li a{text-decoration: none;}
+
+    .search{width: 90%; margin: 0 auto; margin-top: 80px; border: 1px solid #fcfcfc;}
+
+    .search-field{width: 80%; background-color: #032975; color: #fcfcfc;}
+
+    .search img{color: #fcfcfc;}
+
+    .solutions-button{display: none;}
+
+    .nav-close{display: block; font-size: 25px; color: #fcfcfc; position: absolute; top: 10px; right: 20px}
+
+    .logo{margin: 0 auto; padding-right: 0px;}
+
+    .logo img{width: 100px}
+
+    .nav-toggle{display: block; font-size: 25px;}
+
+    .social{display:none}
+
+}
+
+.show-menu{
+    left: 0;
+}
+
+/*=====================CAROUSEL=====================*/
+#carousel-container{padding: 150px 0 80px 0;}
+
+#carousel-indicators{max-width: 810px; max-height: 440px; width:72%; height:35%; border-radius: 20px; overflow: hidden; margin: 0 auto; background-color: #3A8EA1; box-shadow: 1px 1px 15px #00133880; }
+
+@media screen and (max-width: 767px){
+    #carousel-indicators{width: 100%; height: 35%; border-radius: 0px;}
+    #carousel-container{padding: 72px 0 30px 0;}
+}
+/*=====================SOLUTIONS=====================*/
+
+.cls-1-seguranca{fill:#3651A3}
+.cls-2-seguranca{fill:#ff941f}
+
+.solutions{padding: 55px 0 40px 0}
+
+.solutions-mini-text{color: #3A8EA1; font-size: 15px;}
+
+.solutions-title{color: var(--first-color); font-weight: bold;}
+
+#products-and-services{padding: 40px 0 20px 0}
+
+.seguranca-do-trabalho, .saude-ocupacional, .promocao-da-saude, .treinamentos{
+    padding: 30px 0 20px 0; 
+    border-bottom: 15px solid #fcfcfc;
+}
+
+.seguranca-do-trabalho:hover, .saude-ocupacional:hover, .promocao-da-saude:hover, .treinamentos:hover{
+    background-color: #fff; 
+    border-radius: 10px; 
+    border-bottom: 15px solid #026E87; 
+    box-shadow: 1px 1px 15px #92c5f727;
+}
+
+
+/*SEGURANÇA DO TRABALHO :HOVER*/
+.seguranca-do-trabalho:hover .cls-1{
+    fill: var(--white-color);
+}
+.seguranca-do-trabalho:hover .cls-2{
+    fill: var(--white-color);
+}
+.seguranca-do-trabalho:hover .icon-solution-seguranca{
+    background-color: #026e87;
+}
+.seguranca-do-trabalho:hover .text-solution-seguranca{
+    color: #026e87;
+}
+
+/*SAUDE OCUPACIONAL :HOVER*/
+.saude-ocupacional:hover .cls-1{
+    fill: var(--white-color);
+}
+.saude-ocupacional:hover .cls-2{
+    fill: var(--white-color);
+}
+.saude-ocupacional:hover .icon-solution-saude{
+    background-color: #026e87;
+}
+.saude-ocupacional:hover .text-solution-saude{
+    color: #026e87;
+}
+
+/*PROMOÇÃO DA SAÚDE :HOVER*/
+.promocao-da-saude:hover .cls-1{
+    fill: var(--white-color);
+}
+.promocao-da-saude:hover .cls-2{
+    fill: var(--white-color);
+}
+.promocao-da-saude:hover .icon-solution-promocao{
+    background-color: #026e87;
+}
+.promocao-da-saude:hover .text-solution-promocao{
+    color: #026e87;
+}
+
+/*TREINAMENTOS :HOVER*/
+.treinamentos:hover .cls-1-treinamentos{
+    fill: var(--white-color);
+}
+.treinamentos:hover .cls-2-treinamentos{
+    fill: var(--white-color);
+}
+.treinamentos:hover .icon-solution-treinamentos{
+    background-color: #026e87;
+}
+.treinamentos:hover .text-solution-treinamentos{
+    color: #026e87;
+}
+
+.icon-solution-seguranca, .icon-solution-saude, .icon-solution-promocao, .icon-solution-treinamentos{
+    height: 60px; 
+    width: 60px; 
+    border-radius: 55%; 
+    margin: 0 auto; 
+    box-shadow: 1px 1px 15px #2969b728; 
+    margin-top: 25px;
+}
+
+.icon-solution-seguranca svg{width: 35px; text-align: center; margin-top: 20%;}
+
+.icon-solution-saude svg{width: 42px; text-align: center; margin-top: 23%;}
+
+.icon-solution-promocao svg{width: 28px; text-align: center; margin-top: 15%;}
+
+.icon-solution-treinamentos svg{width: 28px; text-align: center; margin-top: 23%;}
+
+.text-solution-seguranca, .text-solution-saude, .text-solution-promocao, .text-solution-treinamentos{font-size: 12px; color: #3651A3; font-weight: bold; padding: 20px 0 5px 0}
+
+/*=====================MOST WANTED CAROUSEL=====================*/
+.most-wanted-title{color: var(--first-color); font-weight: bold; padding: 20px 0 0 0}
+
+.horizontal-line{margin: 0 auto; width: 125px; height: 1.5px; background-color: rgb(67,147,165);}
+
+.service{
+    background-color: #fff; 
+    border-radius: 10px; 
+    box-shadow: 1px 1px 15px #2969b728; 
+    padding: 20px; 
+    margin: 20px; 
+    min-width: 220px; 
+    max-width: 220px; 
+    height: 300px; 
+    position: relative;
+}
+
+.service-name{font-size: 13px; color: #3A8EA1}
+.service-description{font-size: x-small;}
+.service-description .description-text{color:#161616}
+.service-button{color: var(--white-color); background-color: var(--first-color-alt); padding: 10px 15px 10px 15px; border: none; border-radius: 50px;}
+.service-button-div{position: absolute; bottom: 25px; right: 20px;}
+
+.slider-services{width: 100%; position: relative; overflow: scroll; display: inline-block; display: flex;}
+
+.switch-right i, .switch-left i{background-color: rgb(53, 211, 219); color: var(--white-color); padding: 13px 15px 13px 15px; border-radius: 55%; font-size: 14px;}
+
+.section-most-wanted-slider{width: 100%}
+
+
+
+
+
+/*=====================PRESENTATION=====================*/
+
+.presentation{padding: 45px 0 130px 0}
+
+.cis-image img{width: 450px;}
+
+.presentation-title{border-left-width: 6px; border-left-style: solid; border-image: linear-gradient(to bottom, rgb(4,53,75), rgba(166, 242, 240, 1)) 1 100%; padding: 5px 0 5px 15px}
+
+.presentation-text{padding-top: 70px;}
+
+.presentation-text-area{font-size: x-small; padding: 20px 0 0 0; color: #161616}
+
+#company-logos{padding: 100px 0 90px 0;}
+
+.sfiems-logo img{width: 105px; padding: 15px 0 15px 0}
+.sesi-logo img{width: 105px; padding: 15px 0 15px 0; margin-top: 5px;}
+.cis-logo img{width: 105px; padding: 15px 0 15px 0}
+.sesi-sst-logo img{width: 120px; padding: 15px 0 15px 0; margin-top: 5px;}
+
+@media screen and (max-width: 767px){
+    .cis-image img{width: 100%}
+    .presentation-text{font-size: x-small; padding: 70px 20px 0 20px}
+}
+
+/*=====================FOOTER=====================*/
+.colored-bar{color: var(--white-color); background-color: #001338; padding: 25px 0 25px 0}
+
+.social-icons{margin-bottom: 25px;}
+
+.social-icons a{margin: 6px; text-decoration: none; color:#fff; font-size: 17px;}
+
+.contact-info small{margin: 5px; font-size: 12px;}
+
+.address{margin-top: 5px;}
+
+.address small{font-size: 12px;}
+
+.logo-ft{padding: 30px; background-color: rgba(255, 255, 255, 0); /* TRANSPARENT */}
+
+.logo-ft img{width: 180px;}
+
+
+
+
+
+
+
+
+
+
+
+
+

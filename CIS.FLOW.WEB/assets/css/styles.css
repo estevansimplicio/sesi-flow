@@ -278,19 +278,16 @@ a {text-decoration: none;}
 }
 
 .service-name{font-size: 13px; color: #3A8EA1}
+
 .service-description{font-size: x-small;}
+
 .service-description .description-text{color:#161616}
+
 .service-button{color: var(--white-color); background-color: var(--first-color-alt); padding: 10px 15px 10px 15px; border: none; border-radius: 50px;}
+
 .service-button-div{position: absolute; bottom: 25px; right: 20px;}
 
-.slider-services{width: 100%; position: relative; overflow: scroll; display: inline-block; display: flex;}
-
-.switch-right i, .switch-left i{background-color: rgb(53, 211, 219); color: var(--white-color); padding: 13px 15px 13px 15px; border-radius: 55%; font-size: 14px;}
-
-.section-most-wanted-slider{width: 100%}
-
-
-
+.switch-right i, .switch-left i{background-color: rgb(53, 211, 219); color: var(--white-color); padding: 13px 15px 13px 15px; border-radius: 55%; font-size: 14px; cursor: pointer}
 
 
 /*=====================PRESENTATION=====================*/
@@ -333,16 +330,3 @@ a {text-decoration: none;}
 .logo-ft{padding: 30px; background-color: rgba(255, 255, 255, 0); /* TRANSPARENT */}
 
 .logo-ft img{width: 180px;}
-
-
-
-
-
-
-
-
-
-
-
-
-

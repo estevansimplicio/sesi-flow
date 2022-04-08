@@ -27,13 +27,26 @@ $(document).ready(function () {
     }
 
 
+    const navLink = document.querySelectorAll('.nav-link');
+
+    function linkAction(){
+        const navMenu = document.getElementById('nav-menu');
+        navMenu.classList.remove('show-menu')
+        isOpen = false;
+    }
+
+    navLink.forEach(n => n.addEventListener('click', linkAction));
+
+
     //----------------------OWL CAROUSEL----------------------//
 
     $("#slider-services").owlCarousel({
         items: 5,
         center: true,
         responsive: {
-            0 : {items: 1.5},
+            0 : {items: 1.10},
+            300: {items: 1.25},
+            400: {items: 1.75},
             500: {items: 2},
             600: {items: 2.5},
             700: {items: 3.25},
@@ -45,6 +58,8 @@ $(document).ready(function () {
             1700: {items: 7.5},
             2000: {items: 8.5},
         },
+
+        onTranslated:callBack
         
     });
 
@@ -52,11 +67,29 @@ $(document).ready(function () {
     owl.owlCarousel();
 
     $('.switch-right').click(function() {
-        owl.trigger('next.owl.carousel', [600]);
+        owl.trigger('next.owl.carousel', [400]);
     })
 
     $('.switch-left').click(function() {
-        owl.trigger('prev.owl.carousel', [600]);
+        owl.trigger('prev.owl.carousel', [400]);
     })
+
+    $('.switch-left i').css('background-color', 'rgb(219, 219, 219)');
+    $('.switch-left i').css('cursor', 'default');
+
+    function callBack(){
+        if($('.owl-carousel .owl-item').first().hasClass('active center')){
+            $('.switch-left i').css('background-color', 'rgb(219, 219, 219)');
+            $('.switch-left i').css('cursor', 'default');  
+        }else if($('.owl-carousel .owl-item').last().hasClass('active center')){
+            $('.switch-right i').css('background-color', 'rgb(219, 219, 219)');
+            $('.switch-right i').css('cursor', 'default'); 
+        }else{
+            $('.switch-left i').css('background-color', 'rgb(53, 211, 219)');
+            $('.switch-right i').css('background-color', 'rgb(53, 211, 219)');
+            $('.switch-right i').css('cursor', 'pointer');  
+            $('.switch-left i').css('cursor', 'pointer');
+        }
+    }
 
 });

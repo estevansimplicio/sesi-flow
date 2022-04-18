@@ -41,22 +41,13 @@ $(document).ready(function () {
     //----------------------OWL CAROUSEL----------------------//
 
     $("#slider-services").owlCarousel({
-        items: 5,
-        center: true,
+        loop: false,
         responsive: {
-            0 : {items: 1.10},
-            300: {items: 1.25},
-            400: {items: 1.75},
-            500: {items: 2},
-            600: {items: 2.5},
-            700: {items: 3.25},
-            900: {items: 3.75},
-            1000: {items: 4.5},
-            1200: {items: 5},
-            1300: {items: 5.5},
-            1500: {items: 6.25},
-            1700: {items: 7.5},
-            2000: {items: 8.5},
+            0 : {items: 1},
+            480: {items: 2},
+            1000: {items: 3},
+            1200: {items: 4}
+            
         },
 
         onTranslated:callBack
@@ -78,15 +69,15 @@ $(document).ready(function () {
     $('.switch-left i').css('cursor', 'default');
 
     function callBack(){
-        if($('.owl-carousel .owl-item').first().hasClass('active center')){
+        if($('.owl-carousel .owl-item').first().hasClass('active')){
             $('.switch-left i').css('background-color', 'rgb(219, 219, 219)');
             $('.switch-left i').css('cursor', 'default');  
-        }else if($('.owl-carousel .owl-item').last().hasClass('active center')){
+        }else if($('.owl-carousel .owl-item').last().hasClass('active')){
             $('.switch-right i').css('background-color', 'rgb(219, 219, 219)');
             $('.switch-right i').css('cursor', 'default'); 
         }else{
-            $('.switch-left i').css('background-color', 'rgb(53, 211, 219)');
-            $('.switch-right i').css('background-color', 'rgb(53, 211, 219)');
+            $('.switch-left i').css('background-color', 'var(--first-color-alt)');
+            $('.switch-right i').css('background-color', 'var(--first-color-alt)');
             $('.switch-right i').css('cursor', 'pointer');  
             $('.switch-left i').css('cursor', 'pointer');
         }

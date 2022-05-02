@@ -77,7 +77,6 @@ a {text-decoration: none;}
 
 /*=====================HEADER AND NAVBAR=====================*/
 .header{width:100%; top: 0; left: 0; position: fixed; color: var(--white-color); background-color: #032975; padding: 10px; box-shadow: 0px 0px 10px #1f71e8; z-index: 200}
-
 .navbar{font-size: 14px; display: flex; justify-content: space-between; align-items: center;}
 
 .search{border: 1px solid #fff; border-radius: 30px; padding: 6px 10px 6px 10px;}
@@ -405,9 +404,9 @@ a {text-decoration: none;}
 .all-produtcs-button-div{padding: 50px 0 0 0}
 
 .all-products-button{
-    background-color: #fcfcfc; 
-    border: 2px solid var(--first-color-alt); 
-    color: var(--first-color-alt); 
+    color: var(--white-color); 
+    background-color: var(--first-color-alt);
+    border: none;
     padding: 8px 30px 8px 30px; 
     border-radius: 50px;
     font-size: small;
@@ -415,11 +414,13 @@ a {text-decoration: none;}
     
 }
 
+/*
 .all-products-button:hover{
     background-color: var(--first-color-alt); 
     border: 2px solid var(--first-color-alt); 
     color: #fcfcfc;
 }
+*/
 
 /*
 .service{
@@ -452,7 +453,9 @@ a {text-decoration: none;}
 
 .clients-button{color: var(--white-color); background-color: var(--first-color-alt); padding: 8px 30px 8px 30px; border: none; border-radius: 50px; font-size: small; margin: 30px 0 0 0}
 
-.client img{width: 150px}
+@media screen and (max-width: 767px){
+    .client img{max-width: 150px}
+}
 
 .client{padding: 30px; position: relative;}
 

@@ -1,0 +1,9 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "SesiFlow.API",
+    "version": "v0"
+  },
+  "paths": { },
+  "components": { }
+}

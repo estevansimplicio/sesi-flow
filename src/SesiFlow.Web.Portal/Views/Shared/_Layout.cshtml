@@ -3,13 +3,31 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>SesiFlow.Web.Portal</title>
+    <title>>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/lib/font-awesome/css/all.css" />
 </head>
 <body>
+
+    <!-- HEADER -->
+    <header class="header" id="header">
+
+    </header>
 
     @RenderBody()
 
     @RenderSection("Scripts", required: false)
+
+    <!-- FOOTER -->
+    <footer class="footer" id="footer">
+
+    </footer>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/OwlCarousel2/owl.carousel.min.js" asp-append-version="true"></script>
 
 </body>
 </html>

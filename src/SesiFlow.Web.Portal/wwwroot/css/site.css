@@ -51,3 +51,30 @@ ul {
 a {
     text-decoration: none;
 }
+
+/*=====================CHANNELS=====================*/
+.social a {
+    color: var(--first-color);
+    background: white;
+    border-radius: 3px;
+    margin-bottom: 2px;
+    font-size: 17px;
+    position: relative;
+    display: block;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    box-shadow: 1px 1px 5px #ccccccaf;
+}
+
+.social {
+    position: fixed;
+    right: 0;
+    top: 0;
+    margin-top: 155px;
+    z-index: 115;
+}
+
+.social i {
+    margin-top: 25%;
+}

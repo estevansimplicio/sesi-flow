@@ -377,3 +377,43 @@ a {
 .show-menu {
     left: 0;
 }
+
+/*=====================FOOTER=====================*/
+.colored-bar {
+    color: var(--white-color);
+    background-color: #001338;
+    padding: 25px 0 25px 0
+}
+
+.social-icons {
+    margin-bottom: 25px;
+}
+
+    .social-icons a {
+        margin: 6px;
+        text-decoration: none;
+        color: #fff;
+        font-size: 17px;
+    }
+
+.contact-info small {
+    margin: 5px;
+    font-size: 12px;
+}
+
+.address {
+    margin-top: 5px;
+}
+
+    .address small {
+        font-size: 12px;
+    }
+
+.logo-ft {
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0); /* TRANSPARENT */
+}
+
+    .logo-ft object {
+        width: 180px;
+    }

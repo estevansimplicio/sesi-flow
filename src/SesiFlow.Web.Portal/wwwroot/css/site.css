@@ -775,3 +775,67 @@ a {
 .clients .row {
     margin: 50px 0 50px 0
 }
+
+/*=====================PRESENTATION=====================*/
+
+.presentation {
+    padding: 45px 0 45px 0
+}
+
+.cis-image img {
+    width: 450px;
+}
+
+.presentation-title {
+    border-left-width: 6px;
+    border-left-style: solid;
+    border-image: linear-gradient(to bottom, rgb(4,53,75), rgba(166, 242, 240, 1)) 1 100%;
+    padding: 5px 0 5px 15px
+}
+
+.presentation-text {
+    padding-top: 70px;
+}
+
+.presentation-text-area {
+    font-size: x-small;
+    padding: 20px 0 0 0;
+    color: #161616
+}
+
+#company-logos {
+    padding: 200px 0 0 0;
+}
+
+.sfiems-logo object {
+    width: 105px;
+    padding: 15px 0 15px 0
+}
+
+.sesi-logo object {
+    width: 105px;
+    padding: 15px 0 15px 0;
+    margin-top: 5px;
+}
+
+.cis-logo object {
+    width: 105px;
+    padding: 15px 0 15px 0
+}
+
+.sesi-sst-logo object {
+    width: 120px;
+    padding: 15px 0 15px 0;
+    margin-top: 5px;
+}
+
+@media screen and (max-width: 1199px) {
+    .cis-image img {
+        width: 100%
+    }
+
+    .presentation-text {
+        font-size: x-small;
+        padding: 70px 20px 0 20px
+    }
+}

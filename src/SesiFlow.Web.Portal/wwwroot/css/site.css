@@ -443,3 +443,156 @@ a {
         padding: 72px 0 30px 0;
     }
 }
+
+/*=====================SOLUTIONS=====================*/
+
+.cls-1-seguranca {
+    fill: #3651A3
+}
+
+.cls-2-seguranca {
+    fill: #ff941f
+}
+
+.solutions {
+    padding: 55px 0 40px 0
+}
+
+.solutions-mini-text {
+    color: #3A8EA1;
+    font-size: 15px;
+}
+
+.solutions-title {
+    font-family: 'Exo', sans-serif;
+    color: var(--first-color);
+    font-weight: bold;
+}
+
+#products-and-services {
+    padding: 40px 0 20px 0
+}
+
+.seguranca-do-trabalho, .saude-ocupacional, .promocao-da-saude, .treinamentos {
+    padding: 30px 0 20px 0;
+    border-bottom: 15px solid rgba(255, 255, 255, 0); /* TRANSPARENT */
+    ;
+}
+
+    .seguranca-do-trabalho:hover, .saude-ocupacional:hover, .promocao-da-saude:hover, .treinamentos:hover {
+        background-color: #fff;
+        border-radius: 10px;
+        border-bottom: 15px solid #026E87;
+        box-shadow: 1px 1px 15px #92c5f727;
+    }
+
+
+        /*SEGURANÇA DO TRABALHO :HOVER*/
+        .seguranca-do-trabalho:hover .cls-1 {
+            fill: var(--white-color);
+        }
+
+        .seguranca-do-trabalho:hover .cls-2 {
+            fill: var(--white-color);
+        }
+
+        .seguranca-do-trabalho:hover .icon-solution-seguranca {
+            background-color: #026e87;
+        }
+
+        .seguranca-do-trabalho:hover .text-solution-seguranca {
+            color: #026e87;
+        }
+
+        /*SAUDE OCUPACIONAL :HOVER*/
+        .saude-ocupacional:hover .cls-1 {
+            fill: var(--white-color);
+        }
+
+        .saude-ocupacional:hover .cls-2 {
+            fill: var(--white-color);
+        }
+
+        .saude-ocupacional:hover .icon-solution-saude {
+            background-color: #026e87;
+        }
+
+        .saude-ocupacional:hover .text-solution-saude {
+            color: #026e87;
+        }
+
+        /*PROMOÇÃO DA SAÚDE :HOVER*/
+        .promocao-da-saude:hover .cls-1 {
+            fill: var(--white-color);
+        }
+
+        .promocao-da-saude:hover .cls-2 {
+            fill: var(--white-color);
+        }
+
+        .promocao-da-saude:hover .icon-solution-promocao {
+            background-color: #026e87;
+        }
+
+        .promocao-da-saude:hover .text-solution-promocao {
+            color: #026e87;
+        }
+
+        /*TREINAMENTOS :HOVER*/
+        .treinamentos:hover .cls-1-treinamentos {
+            fill: var(--white-color);
+        }
+
+        .treinamentos:hover .cls-2-treinamentos {
+            fill: var(--white-color);
+        }
+
+        .treinamentos:hover .icon-solution-treinamentos {
+            background-color: #026e87;
+        }
+
+        .treinamentos:hover .text-solution-treinamentos {
+            color: #026e87;
+        }
+
+.icon-solution-seguranca, .icon-solution-saude, .icon-solution-promocao, .icon-solution-treinamentos {
+    height: 60px;
+    width: 60px;
+    border-radius: 55%;
+    margin: 0 auto;
+    box-shadow: 1px 1px 15px #2969b728;
+    margin-top: 25px;
+}
+
+    .icon-solution-seguranca svg {
+        width: 35px;
+        text-align: center;
+        margin-top: 20%;
+    }
+
+    .icon-solution-saude svg {
+        width: 42px;
+        text-align: center;
+        margin-top: 23%;
+    }
+
+    .icon-solution-promocao svg {
+        width: 28px;
+        text-align: center;
+        margin-top: 15%;
+    }
+
+    .icon-solution-treinamentos svg {
+        width: 28px;
+        text-align: center;
+        margin-top: 23%;
+    }
+
+.text-solution-seguranca, .text-solution-saude, .text-solution-promocao, .text-solution-treinamentos {
+    font-size: 12px;
+    color: #3651A3;
+    font-weight: bold;
+    padding: 20px 0 5px 0
+}
+
+

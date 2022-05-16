@@ -1,4 +1,4 @@
-ï»¿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -27,12 +27,12 @@
 
             <div class="solutions-button col-xl-2 col-md-3 col-sm-3 text-start">
                 <div class="dropdown">
-                    SoluÃ§Ãµes em SST
+                    Soluções em SST
                     <i class="fa-solid fa-angle-down"></i>
                     <div class="dropdown-content">
-                        <a href="../services.html">SeguranÃ§a do Trabalho</a>
-                        <a href="../services.html">SaÃºde Ocupacional</a>
-                        <a href="../services.html">PromoÃ§Ã£o da SaÃºde</a>
+                        <a href="../services.html">Segurança do Trabalho</a>
+                        <a href="../services.html">Saúde Ocupacional</a>
+                        <a href="../services.html">Promoção da Saúde</a>
                         <a href="../services.html">Treinamentos</a>
                     </div>
                 </div>

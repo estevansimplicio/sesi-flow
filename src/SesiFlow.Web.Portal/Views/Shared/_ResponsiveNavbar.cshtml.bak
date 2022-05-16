@@ -49,16 +49,16 @@
             <div class="solutions-list">
                 <ul class="solutions-list-content">
                     <li>
-                        <p class="solutions-list-title">SOLUÃ‡Ã•ES EM SST</p>
+                        <p class="solutions-list-title">SOLUÇÕES EM SST</p>
                     </li>
                     <li>
-                        <a class="nav-link" href="../services.html">SeguranÃ§a do Trabalho</a>
+                        <a class="nav-link" href="../services.html">Segurança do Trabalho</a>
                     </li>
                     <li>
-                        <a class="nav-link" href="../services.html">SaÃºde Ocupacional</a>
+                        <a class="nav-link" href="../services.html">Saúde Ocupacional</a>
                     </li>
                     <li>
-                        <a class="nav-link" href="../services.html">PromoÃ§Ã£o da SaÃºde</a>
+                        <a class="nav-link" href="../services.html">Promoção da Saúde</a>
                     </li>
                     <li>
                         <a class="nav-link" href="../services.html">Treinamentos</a>

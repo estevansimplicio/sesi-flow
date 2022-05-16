@@ -1,3 +1,53 @@
-/*=====================GOOGLE FONT=====================*/
+/*=====================GOOGLE FONTS=====================*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Exo:wght@600&display=swap');
+
+/*=====================CSS VARIABLES=====================*/
+:root {
+    --header-height: 3rem;
+    /*=====================COLORS=====================*/
+    --first-color: #032975;
+    --first-color-alt: hsl(219, 69%, 52%);
+    --title-color: hsl(219, 8%, 95%);
+    --text-color: hsl(219, 8%, 75%);
+    --text-color-light: hsl(219, 4%, 55%);
+    --white-color: #fcfcfc;
+    --body-color: var(--white-color);
+    --container-color: hsl(219, 4%, 7%);
+    /*=====================FONTS AND TYPOGRAPHY=====================*/
+    --h1-font-size: 1.5rem;
+    --h2-font-size: 1.25rem;
+    --h3-font-size: 1rem;
+    --normal-font-size: .938rem;
+    --small-font-size: .813rem;
+    --smaller-font-size: .75rem;
+    /*=====================FONT WEIGHT=====================*/
+    --font-medium: 500;
+    --font-semi-bold: 600;
+}
+
+/*=====================BODY=====================*/
+html {
+    overflow-x: hidden;
+}
+
+body {
+    font-family: 'Poppins', sans-serif !important;
+    margin: auto;
+    background-color: #fcfcfc !important;
+    user-select: none;
+    overflow-x: hidden;
+    position: relative;
+}
+
+button {
+    letter-spacing: 1px;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}

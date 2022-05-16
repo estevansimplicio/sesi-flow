@@ -417,3 +417,29 @@ a {
     .logo-ft object {
         width: 180px;
     }
+
+/*=====================CAROUSEL=====================*/
+
+#carousel-container {
+    padding: 150px 0 80px 0;
+    width: 100%
+}
+
+#carousel-indicators {
+    border-radius: 20px;
+    overflow: hidden;
+    margin: 0 auto;
+    background-color: #3A8EA1;
+    box-shadow: 1px 1px 15px #00133880;
+}
+
+@media screen and (max-width: 767px) {
+
+    #carousel-indicators {
+        border-radius: 0px;
+    }
+
+    #carousel-container {
+        padding: 72px 0 30px 0;
+    }
+}

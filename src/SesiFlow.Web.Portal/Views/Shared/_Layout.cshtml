@@ -3,8 +3,9 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Sesi Flow - @ViewData["Title"]</title>
+    <title>@ViewData["Title"] - Sesi Flow</title>
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.css" />
     <link rel="stylesheet" href="~/lib/font-awesome/css/all.css" />
 </head>
@@ -17,11 +18,11 @@
                 <i class="fa-solid fa-bars"></i>
             </div>
 
-            <div class="logo col-xl-3 col-md-3 col-sm-3 coltext-start">
-                <a href="../index.html">
+            <a asp-controller="Home" asp-action="Index">
+                <div class="logo col-xl-3 col-md-3 col-sm-3 coltext-start">
                     <object type="image/svg+xml" data="~/svg/logo_SESI_Flow_branco.svg"> </object>
-                </a>
-            </div>
+                </div>
+            </a>
 
             <div class="avulso col-xl-5 col-md-3 col-sm-3 text-center"></div>
 
@@ -30,10 +31,10 @@
                     Soluções em SST
                     <i class="fa-solid fa-angle-down"></i>
                     <div class="dropdown-content">
-                        <a href="../services.html">Segurança do Trabalho</a>
-                        <a href="../services.html">Saúde Ocupacional</a>
-                        <a href="../services.html">Promoção da Saúde</a>
-                        <a href="../services.html">Treinamentos</a>
+                        <a asp-controller="Catalog" asp-action="Index">Segurança do Trabalho</a>
+                        <a asp-controller="Catalog" asp-action="Index">Saúde Ocupacional</a>
+                        <a asp-controller="Catalog" asp-action="Index">Promoção da Saúde</a>
+                        <a asp-controller="Catalog" asp-action="Index">Treinamentos</a>
                     </div>
                 </div>
             </div>
@@ -122,9 +123,10 @@
 
     <script src="~/lib/jquery/jquery.min.js"></script>
     <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="~/lib/OwlCarousel2/owl.carousel.min.js" asp-append-version="true"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
     @RenderSection("Scripts", required: false)
+
 </body>
 </html>

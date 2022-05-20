@@ -668,7 +668,7 @@ a {
 }
 
 .all-produtcs-button-div {
-    padding: 50px 0 0 0
+    padding: 50px 0 100px 0;
 }
 
 .all-products-button {
@@ -839,3 +839,102 @@ a {
         padding: 70px 20px 0 20px
     }
 }
+
+/*=====================CATEGORIES=====================*/
+
+.categories {
+    padding-top: 130px;
+}
+
+.categories-navbar {
+    padding-top: 40px;
+}
+
+.nav .nav-link {
+    background-color: #fcfcfc;
+    color: hsl(219, 69%, 52%);
+    border: 1px solid hsl(219, 69%, 52%) !important;
+    border-radius: 50px !important;
+    font-size: small;
+    letter-spacing: 1px;
+    margin: 5px;
+}
+
+    .nav .nav-link:hover {
+        color: #fcfcfc;
+        background-color: hsl(219, 69%, 52%);
+    }
+
+.nav-item > .active {
+    color: #fff !important;
+    background-color: hsl(219, 69%, 52%) !important;
+}
+
+.nav-link i {
+    font-size: 12px;
+}
+
+.nav-item #pills-search-tab {
+    background-color: #fff !important;
+    color: hsl(219, 69%, 52%) !important;
+}
+
+    .nav-item #pills-search-tab > .active {
+        background-color: #fff !important;
+        color: hsl(219, 69%, 52%) !important;
+    }
+
+    .nav-item #pills-search-tab:hover {
+        background-color: #fff !important;
+        color: hsl(219, 69%, 52%) !important;
+    }
+
+.search-field-button {
+    border: none;
+    background-color: #fff;
+    color: hsl(219, 69%, 52%);
+}
+
+
+    .search-field-button:focus {
+        outline: none !important;
+        border-color: none;
+        box-shadow: 0 0 0;
+    }
+
+    .search-field-button::placeholder {
+        color: hsla(219, 69%, 52%, 0.678);
+    }
+
+.card {
+    background-color: #fcfcfc;
+    box-shadow: 1px 1px 15px #2969b728;
+    font-size: x-small;
+    border-radius: 10px !important;
+}
+
+#pills-tabContent {
+    padding: 10px
+}
+
+#pills-todos {
+    padding: 10px
+}
+
+.pagination li a {
+    text-decoration: none;
+    padding: 5px 12px 5px 12px;
+    font-weight: bold;
+    color: hsl(219, 69%, 52%);
+    border-radius: 50%;
+    font-size: 18px;
+}
+
+.pagination li {
+    margin: 10px;
+}
+
+    .pagination li.active a {
+        background-color: hsl(219, 69%, 52%);
+        color: #fcfcfc;
+    }

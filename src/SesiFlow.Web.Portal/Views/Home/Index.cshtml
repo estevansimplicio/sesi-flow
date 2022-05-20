@@ -215,7 +215,7 @@
             </div>
         </section>
 
-        <!--<partial name="_Carousel" />-->
+        <partial name="_Carousel" />
 
 <!-- CLIENTS -->
     <section class="clients">
@@ -341,7 +341,9 @@
                 </div>
 
                 <div class="text-center">
-                    <button class="clients-button" onclick="location.href='../services.html';">Confira o que oferecemos para elas</button>
+                    <a asp-controller="Catalog" asp-action="Index">
+                        <button class="clients-button">Confira o que oferecemos para elas</button>
+                    </a>
                 </div>
             </div>
         </div>

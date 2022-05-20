@@ -6,15 +6,15 @@
         </li>
 
         <li class="nav-item" role="presentation">
-            <button class="nav-link" id="pills-seguranca-tab" data-bs-toggle="pill" data-bs-target="#pills-seguranca" type="button" role="tab" aria-controls="pills-seguranca" aria-selected="false">Seguran√ßa do Trabalho</button>
+            <button class="nav-link" id="pills-seguranca-tab" data-bs-toggle="pill" data-bs-target="#pills-seguranca" type="button" role="tab" aria-controls="pills-seguranca" aria-selected="false">SeguranÁa do Trabalho</button>
         </li>
 
         <li class="nav-item" role="presentation">
-            <button class="nav-link" id="pills-saude-tab" data-bs-toggle="pill" data-bs-target="#pills-saude" type="button" role="tab" aria-controls="pills-saude" aria-selected="false">Sa√∫de Ocupacional</button>
+            <button class="nav-link" id="pills-saude-tab" data-bs-toggle="pill" data-bs-target="#pills-saude" type="button" role="tab" aria-controls="pills-saude" aria-selected="false">Sa˙de Ocupacional</button>
         </li>
 
         <li class="nav-item" role="presentation">
-            <button class="nav-link" id="pills-promocao-tab" data-bs-toggle="pill" data-bs-target="#pills-promocao" type="button" role="tab" aria-controls="pills-promocao" aria-selected="false">Promo√ß√£o da Sa√∫de</button>
+            <button class="nav-link" id="pills-promocao-tab" data-bs-toggle="pill" data-bs-target="#pills-promocao" type="button" role="tab" aria-controls="pills-promocao" aria-selected="false">PromoÁ„o da Sa˙de</button>
         </li>
 
         <li class="nav-item" role="presentation">
@@ -43,15 +43,16 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=a" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=a" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">LTCAT - Laudo T√©cnico das Condi√ß√µes Ambientais do Trabalho</h5>
+                            <h5 class="card-title">LTCAT - Laudo TÈcnico das CondiÁıes Ambientais do Trabalho</h5>
                             <p class="card-text">
-                                Elabora√ß√£o do LTCAT, documento t√©cnico para demonstrar as condi√ß√µes ambientais de trabalho do colaborador durante o per√≠odo na empresa,
-                                a fim de determinar se o trabalhador ter√° o direito a aposentadoria especial.  O LTCAT subsidiar√° a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                                ElaboraÁ„o do LTCAT, documento tÈcnico para demonstrar as condiÁıes ambientais de trabalho do colaborador durante o perÌodo na empresa,
+                                a fim de determinar se o trabalhador ter· o direito a aposentadoria especial.  O LTCAT subsidiar· a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                             </p>
 
                         </div>
@@ -65,15 +66,16 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=b" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=b" class="card-img-top" alt="serviÁo">
                         <div class="avatar-saude mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Sa√∫de_ocupacional.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Sa˙de ocupacional.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">PCMSO - Programa de Controle M√©dico de Sa√∫de Ocupacional</h5>
+                            <h5 class="card-title">PCMSO - Programa de Controle MÈdico de Sa˙de Ocupacional</h5>
                             <p class="card-text">
-                                O Programa de Controle M√©dico de Sa√∫de Ocupacional tem por objetivo promover √† preserva√ß√£o da sa√∫de do trabalhador,
-                                evitando o absente√≠smo e doen√ßas ocupacionais, a partir da sua implanta√ß√£o, com defini√ß√£o de periodicidade e tipos de ...
+                                O Programa de Controle MÈdico de Sa˙de Ocupacional tem por objetivo promover ‡ preservaÁ„o da sa˙de do trabalhador,
+                                evitando o absenteÌsmo e doenÁas ocupacionais, a partir da sua implantaÁ„o, com definiÁ„o de periodicidade e tipos de ...
                             </p>
 
                         </div>
@@ -87,16 +89,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=c" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=c" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">PGR - Programa de Gerenciamento de Riscos</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
 
                         </div>
@@ -110,16 +113,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=hfghjf" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=hfghjf" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">NR 05 - Comiss√£o Interna de Acidentes (GRAU 1)</h5>
+                            <h5 class="card-title">NR 05 - Comiss„o Interna de Acidentes (GRAU 1)</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -132,16 +136,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=e" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=e" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">AE - An√°lise Ergon√¥mica</h5>
+                            <h5 class="card-title">AE - An·lise ErgonÙmica</h5>
                             <p class="card-text">
-                                Presta√ß√£o de Servi√ßo de An√°lise Ergon√¥mica ‚Äì AE, em atendimento aos itens da NR17,
-                                objetivando avaliar as condi√ß√µes e postos de trabalho de modo a proporcionar um m√°ximo de conforto,
-                                seguran√ßa e desempenho eficiente para os trabalhadores ...
+                                PrestaÁ„o de ServiÁo de An·lise ErgonÙmica ñ AE, em atendimento aos itens da NR17,
+                                objetivando avaliar as condiÁıes e postos de trabalho de modo a proporcionar um m·ximo de conforto,
+                                seguranÁa e desempenho eficiente para os trabalhadores ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -154,13 +159,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=f" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=f" class="card-img-top" alt="serviÁo">
                         <div class="avatar-treinamentos mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Treinamentos.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Treinamentos.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Consultoria em eSocial</h5>
-                            <p class="card-text">Orientar as ind√∫strias no atendimento e na correta implementa√ß√£o das obriga√ß√µes do eSocial em eventos SST.</p>
+                            <p class="card-text">Orientar as ind˙strias no atendimento e na correta implementaÁ„o das obrigaÁıes do eSocial em eventos SST.</p>
 
                         </div>
                         <div class="card-footer text-center">
@@ -173,13 +179,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=g" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=g" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">A√á√ïES DE ALIMENTA√á√ÉO E NUTRI√á√ÉO - OFICINAS</h5>
-                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orienta√ß√µes e sanar as d√∫vidas. Os trabalhadores participar√£o da atividade em grupos de no m√°ximo 20 pessoas.
+                            <h5 class="card-title">A«’ES DE ALIMENTA«√O E NUTRI«√O - OFICINAS</h5>
+                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orientaÁıes e sanar as d˙vidas. Os trabalhadores participar„o da atividade em grupos de no m·ximo 20 pessoas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -191,13 +198,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=h" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=h" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">GIN√ÅSTICA NA EMPRESA</h5>
-                            <p class="card-text">Servi√ßo de promo√ß√£o da sa√∫de realizado durante a rotina de trabalho e no interior das instala√ß√µes das empresas por meio de sess√µes caracterizadas por pausas fisicamente ativas.
+                            <h5 class="card-title">GIN¡STICA NA EMPRESA</h5>
+                            <p class="card-text">ServiÁo de promoÁ„o da sa˙de realizado durante a rotina de trabalho e no interior das instalaÁıes das empresas por meio de sessıes caracterizadas por pausas fisicamente ativas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -209,15 +217,16 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=i" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=i" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">LTCAT - Laudo T√©cnico das Condi√ß√µes Ambientais do Trabalho</h5>
+                            <h5 class="card-title">LTCAT - Laudo TÈcnico das CondiÁıes Ambientais do Trabalho</h5>
                             <p class="card-text">
-                                Elabora√ß√£o do LTCAT, documento t√©cnico para demonstrar as condi√ß√µes ambientais de trabalho do colaborador durante o per√≠odo na empresa,
-                                a fim de determinar se o trabalhador ter√° o direito a aposentadoria especial.  O LTCAT subsidiar√° a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                                ElaboraÁ„o do LTCAT, documento tÈcnico para demonstrar as condiÁıes ambientais de trabalho do colaborador durante o perÌodo na empresa,
+                                a fim de determinar se o trabalhador ter· o direito a aposentadoria especial.  O LTCAT subsidiar· a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                             </p>
 
                         </div>
@@ -231,15 +240,16 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=j" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=j" class="card-img-top" alt="serviÁo">
                         <div class="avatar-saude mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Sa√∫de_ocupacional.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Sa˙de ocupacional.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">PCMSO - Programa de Controle M√©dico de Sa√∫de Ocupacional</h5>
+                            <h5 class="card-title">PCMSO - Programa de Controle MÈdico de Sa˙de Ocupacional</h5>
                             <p class="card-text">
-                                O Programa de Controle M√©dico de Sa√∫de Ocupacional tem por objetivo promover √† preserva√ß√£o da sa√∫de do trabalhador,
-                                evitando o absente√≠smo e doen√ßas ocupacionais, a partir da sua implanta√ß√£o, com defini√ß√£o de periodicidade e tipos de ...
+                                O Programa de Controle MÈdico de Sa˙de Ocupacional tem por objetivo promover ‡ preservaÁ„o da sa˙de do trabalhador,
+                                evitando o absenteÌsmo e doenÁas ocupacionais, a partir da sua implantaÁ„o, com definiÁ„o de periodicidade e tipos de ...
                             </p>
 
                         </div>
@@ -253,16 +263,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=k" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=k" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">PGR - Programa de Gerenciamento de Riscos</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
 
                         </div>
@@ -276,16 +287,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=l" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=l" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">NR 05 - Comiss√£o Interna de Acidentes (GRAU 1)</h5>
+                            <h5 class="card-title">NR 05 - Comiss„o Interna de Acidentes (GRAU 1)</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -298,16 +310,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=m" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=m" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">AE - An√°lise Ergon√¥mica</h5>
+                            <h5 class="card-title">AE - An·lise ErgonÙmica</h5>
                             <p class="card-text">
-                                Presta√ß√£o de Servi√ßo de An√°lise Ergon√¥mica ‚Äì AE, em atendimento aos itens da NR17,
-                                objetivando avaliar as condi√ß√µes e postos de trabalho de modo a proporcionar um m√°ximo de conforto,
-                                seguran√ßa e desempenho eficiente para os trabalhadores ...
+                                PrestaÁ„o de ServiÁo de An·lise ErgonÙmica ñ AE, em atendimento aos itens da NR17,
+                                objetivando avaliar as condiÁıes e postos de trabalho de modo a proporcionar um m·ximo de conforto,
+                                seguranÁa e desempenho eficiente para os trabalhadores ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -320,13 +333,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=n" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=n" class="card-img-top" alt="serviÁo">
                         <div class="avatar-treinamentos mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Treinamentos.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Treinamentos.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Consultoria em eSocial</h5>
-                            <p class="card-text">Orientar as ind√∫strias no atendimento e na correta implementa√ß√£o das obriga√ß√µes do eSocial em eventos SST.</p>
+                            <p class="card-text">Orientar as ind˙strias no atendimento e na correta implementaÁ„o das obrigaÁıes do eSocial em eventos SST.</p>
 
                         </div>
                         <div class="card-footer text-center">
@@ -339,13 +353,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=o" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=o" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">A√á√ïES DE ALIMENTA√á√ÉO E NUTRI√á√ÉO - OFICINAS</h5>
-                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orienta√ß√µes e sanar as d√∫vidas. Os trabalhadores participar√£o da atividade em grupos de no m√°ximo 20 pessoas.
+                            <h5 class="card-title">A«’ES DE ALIMENTA«√O E NUTRI«√O - OFICINAS</h5>
+                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orientaÁıes e sanar as d˙vidas. Os trabalhadores participar„o da atividade em grupos de no m·ximo 20 pessoas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -357,13 +372,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=p" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=p" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">GIN√ÅSTICA NA EMPRESA</h5>
-                            <p class="card-text">Servi√ßo de promo√ß√£o da sa√∫de realizado durante a rotina de trabalho e no interior das instala√ß√µes das empresas por meio de sess√µes caracterizadas por pausas fisicamente ativas.
+                            <h5 class="card-title">GIN¡STICA NA EMPRESA</h5>
+                            <p class="card-text">ServiÁo de promoÁ„o da sa˙de realizado durante a rotina de trabalho e no interior das instalaÁıes das empresas por meio de sessıes caracterizadas por pausas fisicamente ativas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -375,15 +391,16 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=q" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=q" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">LTCAT - Laudo T√©cnico das Condi√ß√µes Ambientais do Trabalho</h5>
+                            <h5 class="card-title">LTCAT - Laudo TÈcnico das CondiÁıes Ambientais do Trabalho</h5>
                             <p class="card-text">
-                                Elabora√ß√£o do LTCAT, documento t√©cnico para demonstrar as condi√ß√µes ambientais de trabalho do colaborador durante o per√≠odo na empresa,
-                                a fim de determinar se o trabalhador ter√° o direito a aposentadoria especial.  O LTCAT subsidiar√° a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                                ElaboraÁ„o do LTCAT, documento tÈcnico para demonstrar as condiÁıes ambientais de trabalho do colaborador durante o perÌodo na empresa,
+                                a fim de determinar se o trabalhador ter· o direito a aposentadoria especial.  O LTCAT subsidiar· a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                             </p>
 
                         </div>
@@ -397,15 +414,16 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=r" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=r" class="card-img-top" alt="serviÁo">
                         <div class="avatar-saude mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Sa√∫de_ocupacional.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Sa˙de ocupacional.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">PCMSO - Programa de Controle M√©dico de Sa√∫de Ocupacional</h5>
+                            <h5 class="card-title">PCMSO - Programa de Controle MÈdico de Sa˙de Ocupacional</h5>
                             <p class="card-text">
-                                O Programa de Controle M√©dico de Sa√∫de Ocupacional tem por objetivo promover √† preserva√ß√£o da sa√∫de do trabalhador,
-                                evitando o absente√≠smo e doen√ßas ocupacionais, a partir da sua implanta√ß√£o, com defini√ß√£o de periodicidade e tipos de ...
+                                O Programa de Controle MÈdico de Sa˙de Ocupacional tem por objetivo promover ‡ preservaÁ„o da sa˙de do trabalhador,
+                                evitando o absenteÌsmo e doenÁas ocupacionais, a partir da sua implantaÁ„o, com definiÁ„o de periodicidade e tipos de ...
                             </p>
 
                         </div>
@@ -419,16 +437,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=s" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=s" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">PGR - Programa de Gerenciamento de Riscos</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
 
                         </div>
@@ -442,16 +461,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=t" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=t" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">NR 05 - Comiss√£o Interna de Acidentes (GRAU 1)</h5>
+                            <h5 class="card-title">NR 05 - Comiss„o Interna de Acidentes (GRAU 1)</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -464,16 +484,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=u" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=u" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">AE - An√°lise Ergon√¥mica</h5>
+                            <h5 class="card-title">AE - An·lise ErgonÙmica</h5>
                             <p class="card-text">
-                                Presta√ß√£o de Servi√ßo de An√°lise Ergon√¥mica ‚Äì AE, em atendimento aos itens da NR17,
-                                objetivando avaliar as condi√ß√µes e postos de trabalho de modo a proporcionar um m√°ximo de conforto,
-                                seguran√ßa e desempenho eficiente para os trabalhadores ...
+                                PrestaÁ„o de ServiÁo de An·lise ErgonÙmica ñ AE, em atendimento aos itens da NR17,
+                                objetivando avaliar as condiÁıes e postos de trabalho de modo a proporcionar um m·ximo de conforto,
+                                seguranÁa e desempenho eficiente para os trabalhadores ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -486,13 +507,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=v" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=v" class="card-img-top" alt="serviÁo">
                         <div class="avatar-treinamentos mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Treinamentos.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Treinamentos.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Consultoria em eSocial</h5>
-                            <p class="card-text">Orientar as ind√∫strias no atendimento e na correta implementa√ß√£o das obriga√ß√µes do eSocial em eventos SST.</p>
+                            <p class="card-text">Orientar as ind˙strias no atendimento e na correta implementaÁ„o das obrigaÁıes do eSocial em eventos SST.</p>
 
                         </div>
                         <div class="card-footer text-center">
@@ -505,13 +527,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=w" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=w" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">A√á√ïES DE ALIMENTA√á√ÉO E NUTRI√á√ÉO - OFICINAS</h5>
-                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orienta√ß√µes e sanar as d√∫vidas. Os trabalhadores participar√£o da atividade em grupos de no m√°ximo 20 pessoas.
+                            <h5 class="card-title">A«’ES DE ALIMENTA«√O E NUTRI«√O - OFICINAS</h5>
+                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orientaÁıes e sanar as d˙vidas. Os trabalhadores participar„o da atividade em grupos de no m·ximo 20 pessoas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -523,13 +546,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=x" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=x" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">GIN√ÅSTICA NA EMPRESA</h5>
-                            <p class="card-text">Servi√ßo de promo√ß√£o da sa√∫de realizado durante a rotina de trabalho e no interior das instala√ß√µes das empresas por meio de sess√µes caracterizadas por pausas fisicamente ativas.
+                            <h5 class="card-title">GIN¡STICA NA EMPRESA</h5>
+                            <p class="card-text">ServiÁo de promoÁ„o da sa˙de realizado durante a rotina de trabalho e no interior das instalaÁıes das empresas por meio de sessıes caracterizadas por pausas fisicamente ativas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -541,15 +565,16 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=y" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=y" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">LTCAT - Laudo T√©cnico das Condi√ß√µes Ambientais do Trabalho</h5>
+                            <h5 class="card-title">LTCAT - Laudo TÈcnico das CondiÁıes Ambientais do Trabalho</h5>
                             <p class="card-text">
-                                Elabora√ß√£o do LTCAT, documento t√©cnico para demonstrar as condi√ß√µes ambientais de trabalho do colaborador durante o per√≠odo na empresa,
-                                a fim de determinar se o trabalhador ter√° o direito a aposentadoria especial.  O LTCAT subsidiar√° a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                                ElaboraÁ„o do LTCAT, documento tÈcnico para demonstrar as condiÁıes ambientais de trabalho do colaborador durante o perÌodo na empresa,
+                                a fim de determinar se o trabalhador ter· o direito a aposentadoria especial.  O LTCAT subsidiar· a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                             </p>
 
                         </div>
@@ -563,15 +588,16 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=z" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=z" class="card-img-top" alt="serviÁo">
                         <div class="avatar-saude mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Sa√∫de_ocupacional.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Sa˙de ocupacional.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">PCMSO - Programa de Controle M√©dico de Sa√∫de Ocupacional</h5>
+                            <h5 class="card-title">PCMSO - Programa de Controle MÈdico de Sa˙de Ocupacional</h5>
                             <p class="card-text">
-                                O Programa de Controle M√©dico de Sa√∫de Ocupacional tem por objetivo promover √† preserva√ß√£o da sa√∫de do trabalhador,
-                                evitando o absente√≠smo e doen√ßas ocupacionais, a partir da sua implanta√ß√£o, com defini√ß√£o de periodicidade e tipos de ...
+                                O Programa de Controle MÈdico de Sa˙de Ocupacional tem por objetivo promover ‡ preservaÁ„o da sa˙de do trabalhador,
+                                evitando o absenteÌsmo e doenÁas ocupacionais, a partir da sua implantaÁ„o, com definiÁ„o de periodicidade e tipos de ...
                             </p>
 
                         </div>
@@ -585,16 +611,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=aa" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=aa" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">PGR - Programa de Gerenciamento de Riscos</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
 
                         </div>
@@ -608,16 +635,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=ab" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=ab" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">NR 05 - Comiss√£o Interna de Acidentes (GRAU 1)</h5>
+                            <h5 class="card-title">NR 05 - Comiss„o Interna de Acidentes (GRAU 1)</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -630,16 +658,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=ac" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=ac" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">AE - An√°lise Ergon√¥mica</h5>
+                            <h5 class="card-title">AE - An·lise ErgonÙmica</h5>
                             <p class="card-text">
-                                Presta√ß√£o de Servi√ßo de An√°lise Ergon√¥mica ‚Äì AE, em atendimento aos itens da NR17,
-                                objetivando avaliar as condi√ß√µes e postos de trabalho de modo a proporcionar um m√°ximo de conforto,
-                                seguran√ßa e desempenho eficiente para os trabalhadores ...
+                                PrestaÁ„o de ServiÁo de An·lise ErgonÙmica ñ AE, em atendimento aos itens da NR17,
+                                objetivando avaliar as condiÁıes e postos de trabalho de modo a proporcionar um m·ximo de conforto,
+                                seguranÁa e desempenho eficiente para os trabalhadores ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -652,13 +681,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=ad" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=ad" class="card-img-top" alt="serviÁo">
                         <div class="avatar-treinamentos mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Treinamentos.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Treinamentos.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Consultoria em eSocial</h5>
-                            <p class="card-text">Orientar as ind√∫strias no atendimento e na correta implementa√ß√£o das obriga√ß√µes do eSocial em eventos SST.</p>
+                            <p class="card-text">Orientar as ind˙strias no atendimento e na correta implementaÁ„o das obrigaÁıes do eSocial em eventos SST.</p>
 
                         </div>
                         <div class="card-footer text-center">
@@ -671,13 +701,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=ae" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=ae" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">A√á√ïES DE ALIMENTA√á√ÉO E NUTRI√á√ÉO - OFICINAS</h5>
-                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orienta√ß√µes e sanar as d√∫vidas. Os trabalhadores participar√£o da atividade em grupos de no m√°ximo 20 pessoas.
+                            <h5 class="card-title">A«’ES DE ALIMENTA«√O E NUTRI«√O - OFICINAS</h5>
+                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orientaÁıes e sanar as d˙vidas. Os trabalhadores participar„o da atividade em grupos de no m·ximo 20 pessoas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -689,13 +720,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=af" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=af" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">GIN√ÅSTICA NA EMPRESA</h5>
-                            <p class="card-text">Servi√ßo de promo√ß√£o da sa√∫de realizado durante a rotina de trabalho e no interior das instala√ß√µes das empresas por meio de sess√µes caracterizadas por pausas fisicamente ativas.
+                            <h5 class="card-title">GIN¡STICA NA EMPRESA</h5>
+                            <p class="card-text">ServiÁo de promoÁ„o da sa˙de realizado durante a rotina de trabalho e no interior das instalaÁıes das empresas por meio de sessıes caracterizadas por pausas fisicamente ativas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -707,15 +739,16 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=ag" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=ag" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">LTCAT - Laudo T√©cnico das Condi√ß√µes Ambientais do Trabalho</h5>
+                            <h5 class="card-title">LTCAT - Laudo TÈcnico das CondiÁıes Ambientais do Trabalho</h5>
                             <p class="card-text">
-                                Elabora√ß√£o do LTCAT, documento t√©cnico para demonstrar as condi√ß√µes ambientais de trabalho do colaborador durante o per√≠odo na empresa,
-                                a fim de determinar se o trabalhador ter√° o direito a aposentadoria especial.  O LTCAT subsidiar√° a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                                ElaboraÁ„o do LTCAT, documento tÈcnico para demonstrar as condiÁıes ambientais de trabalho do colaborador durante o perÌodo na empresa,
+                                a fim de determinar se o trabalhador ter· o direito a aposentadoria especial.  O LTCAT subsidiar· a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                             </p>
 
                         </div>
@@ -729,15 +762,16 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=ah" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=ah" class="card-img-top" alt="serviÁo">
                         <div class="avatar-saude mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Sa√∫de_ocupacional.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Sa˙de ocupacional.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">PCMSO - Programa de Controle M√©dico de Sa√∫de Ocupacional</h5>
+                            <h5 class="card-title">PCMSO - Programa de Controle MÈdico de Sa˙de Ocupacional</h5>
                             <p class="card-text">
-                                O Programa de Controle M√©dico de Sa√∫de Ocupacional tem por objetivo promover √† preserva√ß√£o da sa√∫de do trabalhador,
-                                evitando o absente√≠smo e doen√ßas ocupacionais, a partir da sua implanta√ß√£o, com defini√ß√£o de periodicidade e tipos de ...
+                                O Programa de Controle MÈdico de Sa˙de Ocupacional tem por objetivo promover ‡ preservaÁ„o da sa˙de do trabalhador,
+                                evitando o absenteÌsmo e doenÁas ocupacionais, a partir da sua implantaÁ„o, com definiÁ„o de periodicidade e tipos de ...
                             </p>
 
                         </div>
@@ -751,16 +785,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=ai" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=ai" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">PGR - Programa de Gerenciamento de Riscos</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
 
                         </div>
@@ -774,16 +809,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=aj" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=aj" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">NR 05 - Comiss√£o Interna de Acidentes (GRAU 1)</h5>
+                            <h5 class="card-title">NR 05 - Comiss„o Interna de Acidentes (GRAU 1)</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -796,16 +832,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=ak" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=ak" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">AE - An√°lise Ergon√¥mica</h5>
+                            <h5 class="card-title">AE - An·lise ErgonÙmica</h5>
                             <p class="card-text">
-                                Presta√ß√£o de Servi√ßo de An√°lise Ergon√¥mica ‚Äì AE, em atendimento aos itens da NR17,
-                                objetivando avaliar as condi√ß√µes e postos de trabalho de modo a proporcionar um m√°ximo de conforto,
-                                seguran√ßa e desempenho eficiente para os trabalhadores ...
+                                PrestaÁ„o de ServiÁo de An·lise ErgonÙmica ñ AE, em atendimento aos itens da NR17,
+                                objetivando avaliar as condiÁıes e postos de trabalho de modo a proporcionar um m·ximo de conforto,
+                                seguranÁa e desempenho eficiente para os trabalhadores ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -818,13 +855,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=al" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=al" class="card-img-top" alt="serviÁo">
                         <div class="avatar-treinamentos mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Treinamentos.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Treinamentos.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Consultoria em eSocial</h5>
-                            <p class="card-text">Orientar as ind√∫strias no atendimento e na correta implementa√ß√£o das obriga√ß√µes do eSocial em eventos SST.</p>
+                            <p class="card-text">Orientar as ind˙strias no atendimento e na correta implementaÁ„o das obrigaÁıes do eSocial em eventos SST.</p>
 
                         </div>
                         <div class="card-footer text-center">
@@ -837,13 +875,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=am" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=am" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">A√á√ïES DE ALIMENTA√á√ÉO E NUTRI√á√ÉO - OFICINAS</h5>
-                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orienta√ß√µes e sanar as d√∫vidas. Os trabalhadores participar√£o da atividade em grupos de no m√°ximo 20 pessoas.
+                            <h5 class="card-title">A«’ES DE ALIMENTA«√O E NUTRI«√O - OFICINAS</h5>
+                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orientaÁıes e sanar as d˙vidas. Os trabalhadores participar„o da atividade em grupos de no m·ximo 20 pessoas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -855,13 +894,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=an" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=an" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">GIN√ÅSTICA NA EMPRESA</h5>
-                            <p class="card-text">Servi√ßo de promo√ß√£o da sa√∫de realizado durante a rotina de trabalho e no interior das instala√ß√µes das empresas por meio de sess√µes caracterizadas por pausas fisicamente ativas.
+                            <h5 class="card-title">GIN¡STICA NA EMPRESA</h5>
+                            <p class="card-text">ServiÁo de promoÁ„o da sa˙de realizado durante a rotina de trabalho e no interior das instalaÁıes das empresas por meio de sessıes caracterizadas por pausas fisicamente ativas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -873,15 +913,16 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=ao" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=ao" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">LTCAT - Laudo T√©cnico das Condi√ß√µes Ambientais do Trabalho</h5>
+                            <h5 class="card-title">LTCAT - Laudo TÈcnico das CondiÁıes Ambientais do Trabalho</h5>
                             <p class="card-text">
-                                Elabora√ß√£o do LTCAT, documento t√©cnico para demonstrar as condi√ß√µes ambientais de trabalho do colaborador durante o per√≠odo na empresa,
-                                a fim de determinar se o trabalhador ter√° o direito a aposentadoria especial.  O LTCAT subsidiar√° a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                                ElaboraÁ„o do LTCAT, documento tÈcnico para demonstrar as condiÁıes ambientais de trabalho do colaborador durante o perÌodo na empresa,
+                                a fim de determinar se o trabalhador ter· o direito a aposentadoria especial.  O LTCAT subsidiar· a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                             </p>
 
                         </div>
@@ -895,15 +936,16 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=ap" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=ap" class="card-img-top" alt="serviÁo">
                         <div class="avatar-saude mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Sa√∫de_ocupacional.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Sa˙de ocupacional.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">PCMSO - Programa de Controle M√©dico de Sa√∫de Ocupacional</h5>
+                            <h5 class="card-title">PCMSO - Programa de Controle MÈdico de Sa˙de Ocupacional</h5>
                             <p class="card-text">
-                                O Programa de Controle M√©dico de Sa√∫de Ocupacional tem por objetivo promover √† preserva√ß√£o da sa√∫de do trabalhador,
-                                evitando o absente√≠smo e doen√ßas ocupacionais, a partir da sua implanta√ß√£o, com defini√ß√£o de periodicidade e tipos de ...
+                                O Programa de Controle MÈdico de Sa˙de Ocupacional tem por objetivo promover ‡ preservaÁ„o da sa˙de do trabalhador,
+                                evitando o absenteÌsmo e doenÁas ocupacionais, a partir da sua implantaÁ„o, com definiÁ„o de periodicidade e tipos de ...
                             </p>
 
                         </div>
@@ -917,16 +959,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=aq" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=aq" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">PGR - Programa de Gerenciamento de Riscos</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
 
                         </div>
@@ -940,16 +983,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=ar" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=ar" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">NR 05 - Comiss√£o Interna de Acidentes (GRAU 1)</h5>
+                            <h5 class="card-title">NR 05 - Comiss„o Interna de Acidentes (GRAU 1)</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -962,16 +1006,17 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=as" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=as" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">AE - An√°lise Ergon√¥mica</h5>
+                            <h5 class="card-title">AE - An·lise ErgonÙmica</h5>
                             <p class="card-text">
-                                Presta√ß√£o de Servi√ßo de An√°lise Ergon√¥mica ‚Äì AE, em atendimento aos itens da NR17,
-                                objetivando avaliar as condi√ß√µes e postos de trabalho de modo a proporcionar um m√°ximo de conforto,
-                                seguran√ßa e desempenho eficiente para os trabalhadores ...
+                                PrestaÁ„o de ServiÁo de An·lise ErgonÙmica ñ AE, em atendimento aos itens da NR17,
+                                objetivando avaliar as condiÁıes e postos de trabalho de modo a proporcionar um m·ximo de conforto,
+                                seguranÁa e desempenho eficiente para os trabalhadores ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -984,13 +1029,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=at" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=at" class="card-img-top" alt="serviÁo">
                         <div class="avatar-treinamentos mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Treinamentos.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Treinamentos.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Consultoria em eSocial</h5>
-                            <p class="card-text">Orientar as ind√∫strias no atendimento e na correta implementa√ß√£o das obriga√ß√µes do eSocial em eventos SST.</p>
+                            <p class="card-text">Orientar as ind˙strias no atendimento e na correta implementaÁ„o das obrigaÁıes do eSocial em eventos SST.</p>
 
                         </div>
                         <div class="card-footer text-center">
@@ -1003,13 +1049,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=au" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=au" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">A√á√ïES DE ALIMENTA√á√ÉO E NUTRI√á√ÉO - OFICINAS</h5>
-                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orienta√ß√µes e sanar as d√∫vidas. Os trabalhadores participar√£o da atividade em grupos de no m√°ximo 20 pessoas.
+                            <h5 class="card-title">A«’ES DE ALIMENTA«√O E NUTRI«√O - OFICINAS</h5>
+                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orientaÁıes e sanar as d˙vidas. Os trabalhadores participar„o da atividade em grupos de no m·ximo 20 pessoas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -1021,13 +1068,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=av" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=av" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">GIN√ÅSTICA NA EMPRESA</h5>
-                            <p class="card-text">Servi√ßo de promo√ß√£o da sa√∫de realizado durante a rotina de trabalho e no interior das instala√ß√µes das empresas por meio de sess√µes caracterizadas por pausas fisicamente ativas.
+                            <h5 class="card-title">GIN¡STICA NA EMPRESA</h5>
+                            <p class="card-text">ServiÁo de promoÁ„o da sa˙de realizado durante a rotina de trabalho e no interior das instalaÁıes das empresas por meio de sessıes caracterizadas por pausas fisicamente ativas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -1039,13 +1087,14 @@
 
                 <div class="list-group">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=av" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=av" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">GIN√ÅSTICA NA EMPRESA</h5>
-                            <p class="card-text">Servi√ßo de promo√ß√£o da sa√∫de realizado durante a rotina de trabalho e no interior das instala√ß√µes das empresas por meio de sess√µes caracterizadas por pausas fisicamente ativas.
+                            <h5 class="card-title">GIN¡STICA NA EMPRESA</h5>
+                            <p class="card-text">ServiÁo de promoÁ„o da sa˙de realizado durante a rotina de trabalho e no interior das instalaÁıes das empresas por meio de sessıes caracterizadas por pausas fisicamente ativas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -1074,15 +1123,16 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=kkkk" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=kkkk" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">LTCAT - Laudo T√©cnico das Condi√ß√µes Ambientais do Trabalho</h5>
+                            <h5 class="card-title">LTCAT - Laudo TÈcnico das CondiÁıes Ambientais do Trabalho</h5>
                             <p class="card-text">
-                                Elabora√ß√£o do LTCAT, documento t√©cnico para demonstrar as condi√ß√µes ambientais de trabalho do colaborador durante o per√≠odo na empresa,
-                                a fim de determinar se o trabalhador ter√° o direito a aposentadoria especial.  O LTCAT subsidiar√° a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                                ElaboraÁ„o do LTCAT, documento tÈcnico para demonstrar as condiÁıes ambientais de trabalho do colaborador durante o perÌodo na empresa,
+                                a fim de determinar se o trabalhador ter· o direito a aposentadoria especial.  O LTCAT subsidiar· a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                             </p>
 
                         </div>
@@ -1096,15 +1146,16 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=haha" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=haha" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">PCMSO - Programa de Controle M√©dico de Sa√∫de Ocupacional</h5>
+                            <h5 class="card-title">PCMSO - Programa de Controle MÈdico de Sa˙de Ocupacional</h5>
                             <p class="card-text">
-                                O Programa de Controle M√©dico de Sa√∫de Ocupacional tem por objetivo promover √† preserva√ß√£o da sa√∫de do trabalhador,
-                                evitando o absente√≠smo e doen√ßas ocupacionais, a partir da sua implanta√ß√£o, com defini√ß√£o de periodicidade e tipos de ...
+                                O Programa de Controle MÈdico de Sa˙de Ocupacional tem por objetivo promover ‡ preservaÁ„o da sa˙de do trabalhador,
+                                evitando o absenteÌsmo e doenÁas ocupacionais, a partir da sua implantaÁ„o, com definiÁ„o de periodicidade e tipos de ...
                             </p>
 
                         </div>
@@ -1118,16 +1169,17 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=oioiu" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=oioiu" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">PGR - Programa de Gerenciamento de Riscos</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
 
                         </div>
@@ -1141,16 +1193,17 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=hcgfdyt" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=hcgfdyt" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">NR 05 - Comiss√£o Interna de Acidentes (GRAU 1)</h5>
+                            <h5 class="card-title">NR 05 - Comiss„o Interna de Acidentes (GRAU 1)</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -1163,16 +1216,17 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=efdgf" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=efdgf" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">AE - An√°lise Ergon√¥mica</h5>
+                            <h5 class="card-title">AE - An·lise ErgonÙmica</h5>
                             <p class="card-text">
-                                Presta√ß√£o de Servi√ßo de An√°lise Ergon√¥mica ‚Äì AE, em atendimento aos itens da NR17,
-                                objetivando avaliar as condi√ß√µes e postos de trabalho de modo a proporcionar um m√°ximo de conforto,
-                                seguran√ßa e desempenho eficiente para os trabalhadores ...
+                                PrestaÁ„o de ServiÁo de An·lise ErgonÙmica ñ AE, em atendimento aos itens da NR17,
+                                objetivando avaliar as condiÁıes e postos de trabalho de modo a proporcionar um m·ximo de conforto,
+                                seguranÁa e desempenho eficiente para os trabalhadores ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -1185,13 +1239,14 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=fuyguvg" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=fuyguvg" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Consultoria em eSocial</h5>
-                            <p class="card-text">Orientar as ind√∫strias no atendimento e na correta implementa√ß√£o das obriga√ß√µes do eSocial em eventos SST.</p>
+                            <p class="card-text">Orientar as ind˙strias no atendimento e na correta implementaÁ„o das obrigaÁıes do eSocial em eventos SST.</p>
 
                         </div>
                         <div class="card-footer text-center">
@@ -1204,13 +1259,14 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=gfgdxsrd" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=gfgdxsrd" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">A√á√ïES DE ALIMENTA√á√ÉO E NUTRI√á√ÉO - OFICINAS</h5>
-                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orienta√ß√µes e sanar as d√∫vidas. Os trabalhadores participar√£o da atividade em grupos de no m√°ximo 20 pessoas.
+                            <h5 class="card-title">A«’ES DE ALIMENTA«√O E NUTRI«√O - OFICINAS</h5>
+                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orientaÁıes e sanar as d˙vidas. Os trabalhadores participar„o da atividade em grupos de no m·ximo 20 pessoas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -1222,13 +1278,14 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=huighjc" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=huighjc" class="card-img-top" alt="serviÁo">
                         <div class="avatar-seguranca mx-auto bg-white">
-                           <object type="image/svg+xml" data="~/svg/Seguran√ßa_do_trabalho.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/SeguranÁa do trabalho.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">GIN√ÅSTICA NA EMPRESA</h5>
-                            <p class="card-text">Servi√ßo de promo√ß√£o da sa√∫de realizado durante a rotina de trabalho e no interior das instala√ß√µes das empresas por meio de sess√µes caracterizadas por pausas fisicamente ativas.
+                            <h5 class="card-title">GIN¡STICA NA EMPRESA</h5>
+                            <p class="card-text">ServiÁo de promoÁ„o da sa˙de realizado durante a rotina de trabalho e no interior das instalaÁıes das empresas por meio de sessıes caracterizadas por pausas fisicamente ativas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -1246,15 +1303,16 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=a876" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=a876" class="card-img-top" alt="serviÁo">
                         <div class="avatar-saude mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Sa√∫de_ocupacional.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Sa˙de ocupacional.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">LTCAT - Laudo T√©cnico das Condi√ß√µes Ambientais do Trabalho</h5>
+                            <h5 class="card-title">LTCAT - Laudo TÈcnico das CondiÁıes Ambientais do Trabalho</h5>
                             <p class="card-text">
-                                Elabora√ß√£o do LTCAT, documento t√©cnico para demonstrar as condi√ß√µes ambientais de trabalho do colaborador durante o per√≠odo na empresa,
-                                a fim de determinar se o trabalhador ter√° o direito a aposentadoria especial.  O LTCAT subsidiar√° a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                                ElaboraÁ„o do LTCAT, documento tÈcnico para demonstrar as condiÁıes ambientais de trabalho do colaborador durante o perÌodo na empresa,
+                                a fim de determinar se o trabalhador ter· o direito a aposentadoria especial.  O LTCAT subsidiar· a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                             </p>
 
                         </div>
@@ -1268,15 +1326,16 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=bnjvjhv" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=bnjvjhv" class="card-img-top" alt="serviÁo">
                         <div class="avatar-saude mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Sa√∫de_ocupacional.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Sa˙de ocupacional.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">PCMSO - Programa de Controle M√©dico de Sa√∫de Ocupacional</h5>
+                            <h5 class="card-title">PCMSO - Programa de Controle MÈdico de Sa˙de Ocupacional</h5>
                             <p class="card-text">
-                                O Programa de Controle M√©dico de Sa√∫de Ocupacional tem por objetivo promover √† preserva√ß√£o da sa√∫de do trabalhador,
-                                evitando o absente√≠smo e doen√ßas ocupacionais, a partir da sua implanta√ß√£o, com defini√ß√£o de periodicidade e tipos de ...
+                                O Programa de Controle MÈdico de Sa˙de Ocupacional tem por objetivo promover ‡ preservaÁ„o da sa˙de do trabalhador,
+                                evitando o absenteÌsmo e doenÁas ocupacionais, a partir da sua implantaÁ„o, com definiÁ„o de periodicidade e tipos de ...
                             </p>
 
                         </div>
@@ -1290,16 +1349,17 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=c67df5" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=c67df5" class="card-img-top" alt="serviÁo">
                         <div class="avatar-saude mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Sa√∫de_ocupacional.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Sa˙de ocupacional.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">PGR - Programa de Gerenciamento de Riscos</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
 
                         </div>
@@ -1313,16 +1373,17 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=bjcghd" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=bjcghd" class="card-img-top" alt="serviÁo">
                         <div class="avatar-saude mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Sa√∫de_ocupacional.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Sa˙de ocupacional.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">NR 05 - Comiss√£o Interna de Acidentes (GRAU 1)</h5>
+                            <h5 class="card-title">NR 05 - Comiss„o Interna de Acidentes (GRAU 1)</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -1335,16 +1396,17 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=eu9y886t" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=eu9y886t" class="card-img-top" alt="serviÁo">
                         <div class="avatar-saude mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Sa√∫de_ocupacional.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Sa˙de ocupacional.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">AE - An√°lise Ergon√¥mica</h5>
+                            <h5 class="card-title">AE - An·lise ErgonÙmica</h5>
                             <p class="card-text">
-                                Presta√ß√£o de Servi√ßo de An√°lise Ergon√¥mica ‚Äì AE, em atendimento aos itens da NR17,
-                                objetivando avaliar as condi√ß√µes e postos de trabalho de modo a proporcionar um m√°ximo de conforto,
-                                seguran√ßa e desempenho eficiente para os trabalhadores ...
+                                PrestaÁ„o de ServiÁo de An·lise ErgonÙmica ñ AE, em atendimento aos itens da NR17,
+                                objetivando avaliar as condiÁıes e postos de trabalho de modo a proporcionar um m·ximo de conforto,
+                                seguranÁa e desempenho eficiente para os trabalhadores ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -1357,13 +1419,14 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=fkjihug" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=fkjihug" class="card-img-top" alt="serviÁo">
                         <div class="avatar-saude mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Sa√∫de_ocupacional.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Sa˙de ocupacional.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Consultoria em eSocial</h5>
-                            <p class="card-text">Orientar as ind√∫strias no atendimento e na correta implementa√ß√£o das obriga√ß√µes do eSocial em eventos SST.</p>
+                            <p class="card-text">Orientar as ind˙strias no atendimento e na correta implementaÁ„o das obrigaÁıes do eSocial em eventos SST.</p>
 
                         </div>
                         <div class="card-footer text-center">
@@ -1376,13 +1439,14 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=gdesa" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=gdesa" class="card-img-top" alt="serviÁo">
                         <div class="avatar-saude mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Sa√∫de_ocupacional.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Sa˙de ocupacional.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">A√á√ïES DE ALIMENTA√á√ÉO E NUTRI√á√ÉO - OFICINAS</h5>
-                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orienta√ß√µes e sanar as d√∫vidas. Os trabalhadores participar√£o da atividade em grupos de no m√°ximo 20 pessoas.
+                            <h5 class="card-title">A«’ES DE ALIMENTA«√O E NUTRI«√O - OFICINAS</h5>
+                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orientaÁıes e sanar as d˙vidas. Os trabalhadores participar„o da atividade em grupos de no m·ximo 20 pessoas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -1394,13 +1458,14 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=hoikn" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=hoikn" class="card-img-top" alt="serviÁo">
                         <div class="avatar-saude mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Sa√∫de_ocupacional.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Sa˙de ocupacional.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">GIN√ÅSTICA NA EMPRESA</h5>
-                            <p class="card-text">Servi√ßo de promo√ß√£o da sa√∫de realizado durante a rotina de trabalho e no interior das instala√ß√µes das empresas por meio de sess√µes caracterizadas por pausas fisicamente ativas.
+                            <h5 class="card-title">GIN¡STICA NA EMPRESA</h5>
+                            <p class="card-text">ServiÁo de promoÁ„o da sa˙de realizado durante a rotina de trabalho e no interior das instalaÁıes das empresas por meio de sessıes caracterizadas por pausas fisicamente ativas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -1420,15 +1485,16 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=alkkl" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=alkkl" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">LTCAT - Laudo T√©cnico das Condi√ß√µes Ambientais do Trabalho</h5>
+                            <h5 class="card-title">LTCAT - Laudo TÈcnico das CondiÁıes Ambientais do Trabalho</h5>
                             <p class="card-text">
-                                Elabora√ß√£o do LTCAT, documento t√©cnico para demonstrar as condi√ß√µes ambientais de trabalho do colaborador durante o per√≠odo na empresa,
-                                a fim de determinar se o trabalhador ter√° o direito a aposentadoria especial.  O LTCAT subsidiar√° a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                                ElaboraÁ„o do LTCAT, documento tÈcnico para demonstrar as condiÁıes ambientais de trabalho do colaborador durante o perÌodo na empresa,
+                                a fim de determinar se o trabalhador ter· o direito a aposentadoria especial.  O LTCAT subsidiar· a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                             </p>
 
                         </div>
@@ -1442,15 +1508,16 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=bvcvc" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=bvcvc" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">PCMSO - Programa de Controle M√©dico de Sa√∫de Ocupacional</h5>
+                            <h5 class="card-title">PCMSO - Programa de Controle MÈdico de Sa˙de Ocupacional</h5>
                             <p class="card-text">
-                                O Programa de Controle M√©dico de Sa√∫de Ocupacional tem por objetivo promover √† preserva√ß√£o da sa√∫de do trabalhador,
-                                evitando o absente√≠smo e doen√ßas ocupacionais, a partir da sua implanta√ß√£o, com defini√ß√£o de periodicidade e tipos de ...
+                                O Programa de Controle MÈdico de Sa˙de Ocupacional tem por objetivo promover ‡ preservaÁ„o da sa˙de do trabalhador,
+                                evitando o absenteÌsmo e doenÁas ocupacionais, a partir da sua implantaÁ„o, com definiÁ„o de periodicidade e tipos de ...
                             </p>
 
                         </div>
@@ -1464,16 +1531,17 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=cioui" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=cioui" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">PGR - Programa de Gerenciamento de Riscos</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
 
                         </div>
@@ -1487,16 +1555,17 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=dsdsa" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=dsdsa" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">NR 05 - Comiss√£o Interna de Acidentes (GRAU 1)</h5>
+                            <h5 class="card-title">NR 05 - Comiss„o Interna de Acidentes (GRAU 1)</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -1509,16 +1578,17 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=eoio" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=eoio" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">AE - An√°lise Ergon√¥mica</h5>
+                            <h5 class="card-title">AE - An·lise ErgonÙmica</h5>
                             <p class="card-text">
-                                Presta√ß√£o de Servi√ßo de An√°lise Ergon√¥mica ‚Äì AE, em atendimento aos itens da NR17,
-                                objetivando avaliar as condi√ß√µes e postos de trabalho de modo a proporcionar um m√°ximo de conforto,
-                                seguran√ßa e desempenho eficiente para os trabalhadores ...
+                                PrestaÁ„o de ServiÁo de An·lise ErgonÙmica ñ AE, em atendimento aos itens da NR17,
+                                objetivando avaliar as condiÁıes e postos de trabalho de modo a proporcionar um m·ximo de conforto,
+                                seguranÁa e desempenho eficiente para os trabalhadores ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -1531,13 +1601,14 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=fdstrsd" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=fdstrsd" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Consultoria em eSocial</h5>
-                            <p class="card-text">Orientar as ind√∫strias no atendimento e na correta implementa√ß√£o das obriga√ß√µes do eSocial em eventos SST.</p>
+                            <p class="card-text">Orientar as ind˙strias no atendimento e na correta implementaÁ„o das obrigaÁıes do eSocial em eventos SST.</p>
 
                         </div>
                         <div class="card-footer text-center">
@@ -1550,13 +1621,14 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=g78787" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=g78787" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">A√á√ïES DE ALIMENTA√á√ÉO E NUTRI√á√ÉO - OFICINAS</h5>
-                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orienta√ß√µes e sanar as d√∫vidas. Os trabalhadores participar√£o da atividade em grupos de no m√°ximo 20 pessoas.
+                            <h5 class="card-title">A«’ES DE ALIMENTA«√O E NUTRI«√O - OFICINAS</h5>
+                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orientaÁıes e sanar as d˙vidas. Os trabalhadores participar„o da atividade em grupos de no m·ximo 20 pessoas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -1568,13 +1640,14 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=hioyh" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=hioyh" class="card-img-top" alt="serviÁo">
                         <div class="avatar-promocao mx-auto bg-white">
-                             <object type="image/svg+xml" data="~/svg/Promo√ß√£o_da_sa√∫de.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/PromoÁ„o da sa˙de.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">GIN√ÅSTICA NA EMPRESA</h5>
-                            <p class="card-text">Servi√ßo de promo√ß√£o da sa√∫de realizado durante a rotina de trabalho e no interior das instala√ß√µes das empresas por meio de sess√µes caracterizadas por pausas fisicamente ativas.
+                            <h5 class="card-title">GIN¡STICA NA EMPRESA</h5>
+                            <p class="card-text">ServiÁo de promoÁ„o da sa˙de realizado durante a rotina de trabalho e no interior das instalaÁıes das empresas por meio de sessıes caracterizadas por pausas fisicamente ativas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -1592,15 +1665,16 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=axcvzvz" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=axcvzvz" class="card-img-top" alt="serviÁo">
                         <div class="avatar-treinamentos mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Treinamentos.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Treinamentos.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">LTCAT - Laudo T√©cnico das Condi√ß√µes Ambientais do Trabalho</h5>
+                            <h5 class="card-title">LTCAT - Laudo TÈcnico das CondiÁıes Ambientais do Trabalho</h5>
                             <p class="card-text">
-                                Elabora√ß√£o do LTCAT, documento t√©cnico para demonstrar as condi√ß√µes ambientais de trabalho do colaborador durante o per√≠odo na empresa,
-                                a fim de determinar se o trabalhador ter√° o direito a aposentadoria especial.  O LTCAT subsidiar√° a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                                ElaboraÁ„o do LTCAT, documento tÈcnico para demonstrar as condiÁıes ambientais de trabalho do colaborador durante o perÌodo na empresa,
+                                a fim de determinar se o trabalhador ter· o direito a aposentadoria especial.  O LTCAT subsidiar· a empresa na ... "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                             </p>
 
                         </div>
@@ -1614,15 +1688,16 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=bioyuiyi" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=bioyuiyi" class="card-img-top" alt="serviÁo">
                         <div class="avatar-treinamentos mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Treinamentos.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Treinamentos.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">PCMSO - Programa de Controle M√©dico de Sa√∫de Ocupacional</h5>
+                            <h5 class="card-title">PCMSO - Programa de Controle MÈdico de Sa˙de Ocupacional</h5>
                             <p class="card-text">
-                                O Programa de Controle M√©dico de Sa√∫de Ocupacional tem por objetivo promover √† preserva√ß√£o da sa√∫de do trabalhador,
-                                evitando o absente√≠smo e doen√ßas ocupacionais, a partir da sua implanta√ß√£o, com defini√ß√£o de periodicidade e tipos de ...
+                                O Programa de Controle MÈdico de Sa˙de Ocupacional tem por objetivo promover ‡ preservaÁ„o da sa˙de do trabalhador,
+                                evitando o absenteÌsmo e doenÁas ocupacionais, a partir da sua implantaÁ„o, com definiÁ„o de periodicidade e tipos de ...
                             </p>
 
                         </div>
@@ -1636,16 +1711,17 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=ctrtryt" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=ctrtryt" class="card-img-top" alt="serviÁo">
                         <div class="avatar-treinamentos mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Treinamentos.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Treinamentos.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">PGR - Programa de Gerenciamento de Riscos</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
 
                         </div>
@@ -1659,16 +1735,17 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=yyuiy" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=yyuiy" class="card-img-top" alt="serviÁo">
                         <div class="avatar-treinamentos mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Treinamentos.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Treinamentos.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">NR 05 - Comiss√£o Interna de Acidentes (GRAU 1)</h5>
+                            <h5 class="card-title">NR 05 - Comiss„o Interna de Acidentes (GRAU 1)</h5>
                             <p class="card-text">
-                                Elabora√ß√£o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
-                                que visa identificar e analisar os poss√≠veis riscos no ambiente de trabalho e,
-                                a partir da√≠ propor estrat√©gias de preven√ß√£o de acidentes e doen√ßas ...
+                                ElaboraÁ„o e entrega do Programa de Gerenciamento de Risco - PGR, regido pela NR 01,
+                                que visa identificar e analisar os possÌveis riscos no ambiente de trabalho e,
+                                a partir daÌ propor estratÈgias de prevenÁ„o de acidentes e doenÁas ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -1681,16 +1758,17 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=eesress" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=eesress" class="card-img-top" alt="serviÁo">
                         <div class="avatar-treinamentos mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Treinamentos.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Treinamentos.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">AE - An√°lise Ergon√¥mica</h5>
+                            <h5 class="card-title">AE - An·lise ErgonÙmica</h5>
                             <p class="card-text">
-                                Presta√ß√£o de Servi√ßo de An√°lise Ergon√¥mica ‚Äì AE, em atendimento aos itens da NR17,
-                                objetivando avaliar as condi√ß√µes e postos de trabalho de modo a proporcionar um m√°ximo de conforto,
-                                seguran√ßa e desempenho eficiente para os trabalhadores ...
+                                PrestaÁ„o de ServiÁo de An·lise ErgonÙmica ñ AE, em atendimento aos itens da NR17,
+                                objetivando avaliar as condiÁıes e postos de trabalho de modo a proporcionar um m·ximo de conforto,
+                                seguranÁa e desempenho eficiente para os trabalhadores ...
                             </p>
                         </div>
                         <div class="card-footer text-center">
@@ -1703,13 +1781,14 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=fewewe" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=fewewe" class="card-img-top" alt="serviÁo">
                         <div class="avatar-treinamentos mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Treinamentos.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Treinamentos.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Consultoria em eSocial</h5>
-                            <p class="card-text">Orientar as ind√∫strias no atendimento e na correta implementa√ß√£o das obriga√ß√µes do eSocial em eventos SST.</p>
+                            <p class="card-text">Orientar as ind˙strias no atendimento e na correta implementaÁ„o das obrigaÁıes do eSocial em eventos SST.</p>
 
                         </div>
                         <div class="card-footer text-center">
@@ -1722,13 +1801,14 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=gpipok" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=gpipok" class="card-img-top" alt="serviÁo">
                         <div class="avatar-treinamentos mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Treinamentos.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Treinamentos.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">A√á√ïES DE ALIMENTA√á√ÉO E NUTRI√á√ÉO - OFICINAS</h5>
-                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orienta√ß√µes e sanar as d√∫vidas. Os trabalhadores participar√£o da atividade em grupos de no m√°ximo 20 pessoas.
+                            <h5 class="card-title">A«’ES DE ALIMENTA«√O E NUTRI«√O - OFICINAS</h5>
+                            <p class="card-text">Durante toda a atividade o nutricionista interage como um mediador entre os colaboradores no sentido de complementar as orientaÁıes e sanar as d˙vidas. Os trabalhadores participar„o da atividade em grupos de no m·ximo 20 pessoas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">
@@ -1740,13 +1820,14 @@
 
                 <div class="col">
                     <div class="card border-light">
-                        <img src="https://placem.at/things?w=304&h=152&random=hadasfd" class="card-img-top" alt="servi√ßo">
+                        <img src="https://placem.at/things?w=304&h=152&random=hadasfd" class="card-img-top" alt="serviÁo">
                         <div class="avatar-treinamentos mx-auto bg-white">
-                            <object type="image/svg+xml" data="~/svg/Treinamentos.svg" class="img-fluid"> </object>
+                            <img src="../assets/img/icons/Treinamentos.svg"
+                                 class="img-fluid" />
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">GIN√ÅSTICA NA EMPRESA</h5>
-                            <p class="card-text">Servi√ßo de promo√ß√£o da sa√∫de realizado durante a rotina de trabalho e no interior das instala√ß√µes das empresas por meio de sess√µes caracterizadas por pausas fisicamente ativas.
+                            <h5 class="card-title">GIN¡STICA NA EMPRESA</h5>
+                            <p class="card-text">ServiÁo de promoÁ„o da sa˙de realizado durante a rotina de trabalho e no interior das instalaÁıes das empresas por meio de sessıes caracterizadas por pausas fisicamente ativas.
                         </div>
                         <div class="card-footer text-center">
                             <div class="more-details-button">

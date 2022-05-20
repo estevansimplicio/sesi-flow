@@ -1,5 +1,5 @@
 @{
-    ViewData["Title"] = "Produtos e ServiÃ§os";
+    ViewData["Title"] = "Produtos e Serviços";
 }
 
 <section class="categories">
@@ -7,15 +7,13 @@
         <div class="col">
             <div class="col-xl-12 text-start">
                 <p class="solutions-mini-text medium">
-                    SoluÃ§Ãµes em SST
+                    Soluções em SST
                 </p>
             </div>
 
             <div class="col-xl-12 text-start">
-                <h5 class="solutions-title">NOSSOS PRODUTOS E SERVIÃ‡OS</h2>
+                <h5 class="solutions-title">NOSSOS PRODUTOS E SERVIÇOS</h2>
             </div>
-
-            <partial name="_Products"></partial>
         </div>
     </div>
 </section>

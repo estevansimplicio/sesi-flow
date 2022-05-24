@@ -938,3 +938,286 @@ a {
         background-color: hsl(219, 69%, 52%);
         color: #fcfcfc;
     }
+
+
+/*=====================CUSTOMER JOURNEY=====================*/
+.journey {
+    padding: 130px 0 0 0;
+}
+
+.journey-title {
+    font-size: 75px;
+    color: #55647b;
+    letter-spacing: 2px;
+    margin-bottom: 120px;
+}
+
+@media screen and (max-width: 767px) {
+    .journey-title {
+        font-size: 50px;
+    }
+}
+
+.journey-course {
+    height: auto;
+}
+
+    .journey-course .block {
+        height: 190px;
+        margin-bottom: -8px;
+        border: 8px solid #02a97f;
+        border-radius: 300px;
+    }
+
+        .journey-course .block:nth-child(1) {
+            width: 55%;
+            margin-left: 15%;
+        }
+
+.block:before {
+    content: "";
+    position: absolute;
+    right: 100%;
+    top: 0px;
+    width: 0px;
+    height: 0px;
+    border-top: 20px solid transparent;
+    border-right: 40px solid blue;
+    border-bottom: 20px solid transparent;
+}
+
+.journey-course .block:nth-child(2) {
+    width: 55%;
+}
+
+.journey-course .block:nth-child(3) {
+    width: 55%;
+    margin-left: 15%;
+}
+
+.journey-course .block:nth-child(4) {
+    width: 55%;
+}
+
+.journey-course .block:nth-child(5) {
+    width: 55%;
+    margin-left: 15%;
+}
+
+.journey-course .block:nth-child(6) {
+    width: 55%;
+    margin-left: 15%;
+    border: none
+}
+
+.journey-course .block:nth-child(odd) {
+    margin-right: 25%;
+    border-right: none !important;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.journey-course .block:nth-child(even) {
+    margin-left: 25%;
+    border-left: none !important;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.journey-course .block b {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: #fcfcfc;
+    text-align: center;
+    line-height: 100px;
+    font-size: 50px;
+    color: #205b6d
+}
+
+.journey-course .block:nth-child(odd) b {
+    top: 20%;
+    right: 5%;
+    padding: 20px;
+} 
+
+.journey-course .block:nth-child(even) b {
+    top: 20%;
+    left: 93%;
+    padding: 20px;
+}
+
+.journey-course .block .journey-start {
+    position: relative;
+    width: fit-content;
+    bottom: 70%;
+    left: 70%;
+    font-weight: 600;
+    font-size: 20px;
+    text-transform: uppercase;
+    background-color: #fcfcfc;
+}
+
+.journey-course .block h2 i {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+    border: 10px solid #205b6d;
+    border-radius: 100%;
+    vertical-align: middle;
+    margin-right: 18px;
+    margin-left: 0;
+}
+
+.journey-course .block .journey-end {
+    position: relative;
+    width: fit-content;
+    bottom: 8%;
+    left: 50%;
+    font-weight: 600;
+    font-size: 20px;
+    text-transform: uppercase;
+    background-color: #fcfcfc;
+}
+
+.journey-course .block article {
+    position: relative;
+    padding-left: 112px;
+    transform: translate(0%,-50%);
+}
+
+    .journey-course .block article sup {
+        position: absolute;
+        top: 50%;
+        left: 0;
+        font-weight: 700;
+        font-size: 72px;
+        color: #E9E9E9;
+        transform: translate(0%,-50%);
+    }
+
+    .journey-course .block article strong {
+        display: block;
+        font-weight: 100 !important;
+        font-size: 24px;
+        line-height: 140%;
+    }
+
+    .journey-course .block article em {
+        display: block;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+    }
+
+.journey-course .block:nth-child(1) article {
+    bottom: 35%;
+    left: 15%;
+}
+
+.journey-course .block:nth-child(2) article {
+    bottom: 8%;
+    right: 2%;
+}
+
+.journey-course .block:nth-child(3) article {
+    bottom: 8%;
+    left: 15%;
+}
+
+.journey-course .block:nth-child(4) article {
+    bottom: 8%;
+    right: 2%;
+}
+
+.journey-course .block:nth-child(5) article {
+    bottom: 8%;
+    left: 15%;
+}
+
+.about-journey {
+    background-color: #eef2f5;
+}
+
+.about-journey-title {
+    color: #40506a;
+    padding: 40px 0 60px 0;
+    text-align: center;
+}
+
+.about-journey-icon i {
+    font-size: 100px;
+    padding: 30px 0 90px 0;
+}
+
+/*=====================RESPONSIVE CUSTOMER JOURNEY=====================*/
+
+@media screen and (max-width: 1000px) {
+
+    .journey-course {
+        width: 100%;
+        margin-left: 0px !important;
+        margin-top: 140px;
+    }
+
+        .journey-course .block {
+            position: static;
+            border: none !important;
+            width: 100% !important;
+            margin: 0 0 0 0 !important;
+        }
+
+            .journey-course .block .journey-start {
+                left: 0%;
+            }
+
+            .journey-course .block .journey-end {
+                left: 0%;
+            }
+
+            .journey-course .block b {
+                font-size: 50px;
+
+            }
+
+            .journey-course .block article {
+                left: 15%;
+                padding-left: 50px;
+            }
+
+            .journey-course .block:nth-child(odd) b {
+                right: 0%;
+                top: 17%;
+            }
+
+            .journey-course .block:nth-child(even) b {
+                left: 0%;
+                top: 18%
+            }
+
+            .journey-course .block article strong {
+                font-size: unset;
+            }
+
+            .journey-course .block article sup {
+                font-size: 30px;
+                position: unset;
+            }
+
+}
+
+/*.journey-course .block {
+            width: 100% !important;
+            height: auto !important;
+            margin: 0 0 40px 0px !important;
+            padding-left: 60px;
+            border: none !important;
+            border: none !important;
+        }
+
+    .journey-course .block article{
+            border: none !important;
+            word-wrap: normal
+        }
+*/

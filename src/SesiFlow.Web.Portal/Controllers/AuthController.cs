@@ -3,9 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 namespace SesiFlow.Web.Portal.Controllers
 {
 
-    [Route("jornada-do-cliente")]
+    [Route("login")]
 
-    public class JourneyController : Controller
+    public class AuthController : Controller
     {
         public IActionResult Index()
         {

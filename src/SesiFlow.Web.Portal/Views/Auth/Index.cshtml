@@ -1,0 +1,67 @@
+
+@{
+    ViewData["Title"] = "Faça login ou cadastre-se";
+}
+
+<section class="auth-section">
+    <div class="container">
+        <div class="col">
+            <div class="col text-center">
+                <div class="p-3">
+                    <img src="/images/centro-de-inovacao-sesi-icon.png" width="110" alt="Centro de Inovação SESI – Sistemas de Gestão em SST" draggable="false" />
+                </div>
+
+                <div>
+                    <p class="pt-2 pb-3 text-black-50 fs-4">Faça login com sua conta</p>
+                </div>
+            </div>
+            <hr />
+            <div class="row">
+                <div class="col p-5 border-end">
+                    <form>
+                        <div class="mb-4">
+                            <label for="emailInput" class="form-label">E-mail</label>
+                            <input type="email" class="form-control" id="emailInput" aria-describedby="emailHelp" placeholder="Informe seu e-mail de acesso">
+                        </div>
+                        <div class="mb-4">
+                            <label for="passwordInput" class="form-label">Senha</label>
+                            <input type="password" class="form-control" id="passwordInput" placeholder="Informe sua senha de acesso">
+                        </div>
+                        <div class="mb-4 form-check">
+                            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                            <label class="form-check-label" for="exampleCheck1">Lembrar de mim</label>
+                        </div>
+                        <button type="submit" class="btn btn-secondary w-100">Login</button>
+                    </form>
+                </div>
+
+                <div class="col d-flex justify-content-center">
+                    <div class="row p-3 facebook-login-button">
+                        <i class="fa-brands fa-facebook col-1 text-end"></i>
+                        <a type="button" class="col-11 text-start" href="#">Entrar com Facebook</a>
+                    </div>
+                    <div class="row p-3 google-login-button">
+                        <i class="fa-brands fa-google col-1 text-end"></i>
+                        <a type="button" class="col-11 text-start" href="#">Entrar com Google</a>
+                    </div>
+                    <div class="row p-3 apple-login-button">
+                        <i class="fa-brands fa-apple col-1 text-end"></i>
+                        <a type="button" class="col-11 text-start" href="#">Entrar com Apple</a>
+                    </div>
+                </div>
+            </div>
+            <hr />
+            <div class="col text-center mb-5">
+                <div>
+                    <p class="text-black-50">
+                        Você não possui uma conta?
+                    </p>
+                </div>
+
+                <div>
+                    <button type="button" class="btn btn-primary p-4 pt-2 pb-2">Criar nova conta</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> 

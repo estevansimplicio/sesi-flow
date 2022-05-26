@@ -105,7 +105,7 @@ a {
     padding: 6px 10px 6px 10px;
 }
 
-    .search object {
+    .search img {
         color: #fff;
         padding: 0 5px 0 5px;
         width: 22px;
@@ -137,7 +137,7 @@ a {
     padding-right: 20px;
 }
 
-    .logo object {
+    .logo img {
         width: 100px;
     }
 
@@ -414,7 +414,7 @@ a {
     background-color: rgba(255, 255, 255, 0); /* TRANSPARENT */
 }
 
-    .logo-ft object {
+    .logo-ft img {
         width: 180px;
     }
 
@@ -1151,6 +1151,7 @@ a {
     padding: 30px 0 90px 0;
 }
 
+
 /*=====================RESPONSIVE CUSTOMER JOURNEY=====================*/
 
 @media screen and (max-width: 1000px) {
@@ -1204,20 +1205,21 @@ a {
                 font-size: 30px;
                 position: unset;
             }
+}
+
+
+/*=====================AUTH PAGE=====================*/
+
+.auth-section {
+    padding: 130px 0 0 0;
+}
+
+.facebook-login-button, apple-login-button, google-login-button{
+    padding: 10px
 
 }
 
-/*.journey-course .block {
-            width: 100% !important;
-            height: auto !important;
-            margin: 0 0 40px 0px !important;
-            padding-left: 60px;
-            border: none !important;
-            border: none !important;
-        }
-
-    .journey-course .block article{
-            border: none !important;
-            word-wrap: normal
-        }
-*/
+.facebook-login-button {
+    background-color: #4267B2;
+    color: #fff;
+}
